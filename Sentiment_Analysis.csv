@@ -1,0 +1,901 @@
+Review_ID,Review_Text,Rating,Review_Length,Sentiment_Score,Reviewer_Age,Product_Category,Gender,Review_Helpful_Count,Sentiment_Label
+5daa3097-ecb4-4c8e-ba8b-c85d3281f3cd,Debate later wish how watch despite company vote they various guess room significant.,3.709569554430338,444,-0.45240926009926574,30.0,Electronics,Other,108.0,Neutral
+364b13c1-2bd8-424e-a236-ce896a86ba06,Authority billion level office seven movement nice but television whether over.,4.329255695755105,449,0.7450517228197107,,Books,Female,54.0,Neutral
+3175bc62-9d1e-4a23-9a9d-093a32edc7b1,Kitchen guess tend take live suffer play nature national one boy notice.,1.1222979756934928,234,-0.3963242831238516,27.0,Electronics,Female,210.0,Positive
+d64c87fb-4299-4f7c-bf16-4802b6225b97,Season into hit set last camera ask receive once former her number thank.,4.798513476943277,148,0.15910852406844178,,Beauty,Male,,Neutral
+41d8e27b-8242-4466-a058-a074073e56bf,Guess huge follow wrong national heart play start certain economic school service.,4.182152219743108,460,0.6518207280329489,52.0,Clothing,Male,251.0,Negative
+dcf1d264-808f-4f49-8771-5aa803339051,Paper investment whole physical investment usually.,1.778497231055728,124,-0.3209894516484253,30.0,Beauty,Female,186.0,Positive
+f1ef6281-cb91-44b1-a2c8-7ea1989a6824,Price business dark card behind beyond summer community audience agree often beat as.,,405,0.2274598200396878,,Clothing,Male,493.0,Positive
+fd365985-296f-40af-bb5c-2e82d70f1893,Parent most message stuff oil them unit budget nearly.,2.9219688735126614,463,0.5611375830235177,63.0,Clothing,Other,20.0,Negative
+e05cb90b-5c7b-4950-87cd-12609a45ec9a,Hot onto consider piece big cold great.,2.3455885478796348,291,-0.17789401698464613,,Electronics,Female,127.0,Positive
+a9709077-85b2-4ffe-aad8-cc8b8598c38d,Style I same ability part something listen.,4.6785172900293635,436,-0.397741391309655,56.0,Electronics,Male,47.0,Neutral
+5aa34645-4bde-4624-885f-74aa0a662948,Both money step final career back dark give.,3.5808289668576454,279,-0.5416103281940143,,Beauty,Male,497.0,Positive
+82878688-31dc-491f-80e0-f68b2815b95a,Shake capital loss crime concern hear generation.,2.7440539688541996,293,0.18483977214602199,32.0,Home,Other,164.0,Positive
+ff10fccd-c87f-4d4c-992e-4415293e97d5,Particular full former hope safe laugh difference apply base.,4.106182379520591,457,0.012126551119298057,44.0,Clothing,Other,412.0,Neutral
+bd488243-38bc-41e6-a483-2f48ca2c5fa3,Until issue war continue quite just street natural car.,2.6700915313089677,310,0.2167417289261102,,Home,Female,230.0,Positive
+56fee7ac-a19d-4052-b768-d7938964bef2,Finally group occur tonight adult growth back wife risk.,4.912955532950264,62,-0.47160503903275686,63.0,Beauty,Male,276.0,Neutral
+a87e3ba3-9800-4015-b620-1a3d86bafc17,Fear wonder follow message resource modern.,3.3760303787482555,348,0.5623936969309988,60.0,Beauty,Other,142.0,Negative
+8abde66a-59a2-4fad-a7a4-493ccd725a06,Finish sometimes skin scientist may remember character beat west prove page certainly discuss.,1.3965931931927633,199,-0.239172917311524,48.0,Electronics,Other,,Negative
+115f5584-620e-4282-a8c3-b1157982c280,American form reflect friend size share whole personal read such would.,3.3158269823710014,339,0.7117340701961825,61.0,Beauty,Other,246.0,Positive
+8d747c15-3a2a-4f5a-ac8c-fe19b7a04b12,Question compare common election thousand finally stop might until boy conference.,3.6322928708037456,392,-0.5622862186365496,25.0,Electronics,Female,267.0,Negative
+0e0e7f84-460d-4277-b1fb-614951f61ff8,Event understand several get may full station itself than offer media.,,221,0.9929615045814448,59.0,Books,Female,,Positive
+243c5d13-3882-4e5d-9054-02e740b632f7,Talk market natural room few wonder thing perhaps.,3.9887478461234447,191,-0.3197206521424387,40.0,Home,Female,265.0,Neutral
+caed79a6-8608-432c-8608-1e26b3b516d2,Front decide whose some trip hour blue serve reason edge popular husband look.,3.7126692548386293,321,-0.7940326553662298,43.0,Clothing,Female,115.0,Negative
+2d12f0f4-fa6d-4fef-85cf-b48d79cb5a4b,Seven key white information practice must news market.,1.2704926381213872,216,-0.9146379349819804,24.0,Electronics,Female,,Positive
+e8714f77-1019-458b-a486-175273585b14,Tax might back lay feel issue these fund.,2.567541248597266,475,0.20940577276665984,59.0,Home,Male,302.0,Negative
+8d996b30-1ff3-47e3-a359-fd48ae848d50,Over factor trade one road store report.,4.786179088571069,193,-0.11763684797838314,53.0,Books,Other,,Negative
+cac16776-81c0-4177-9ebf-3307d25ca087,Soldier then social apply community tough improve sea we increase truth individual easy.,1.534650612412543,55,0.16746092766154974,27.0,Beauty,Male,16.0,Negative
+158ae57d-92a1-48ad-a285-b055a1bf1382,Arm add after station character world treatment statement he individual.,3.0013687870729426,58,-0.6601357266861729,41.0,Home,Other,275.0,Positive
+e1aff4e2-cc87-4116-83b6-caae01691afd,Health TV management finish now production away.,4.112733584521614,484,-0.24652092604855813,54.0,Clothing,Female,496.0,Negative
+1452a852-edf7-4a3f-af2d-3f20183296f1,Operation behavior democratic among majority carry surface commercial kitchen yet.,1.4232984682653034,77,-0.12356525135605834,22.0,Books,Female,479.0,Negative
+5c1bc103-128a-452b-b668-95652bb2dfe7,Sing wish consider community better on participant institution room sell writer however cup dark.,4.262467007962412,499,-0.23883805808863712,35.0,Books,Male,471.0,Neutral
+babc3236-6889-45b8-91fe-7efb86e1aaf8,Health region color carry religious federal marriage call friend hospital be take.,3.2088427174403464,174,0.7270863257392288,58.0,Beauty,Male,413.0,Neutral
+4075b3de-a292-49fb-b98f-8bf201ee3125,Even alone certainly drop money especially card recent shake official.,2.5527188900827045,156,0.31980008627461975,19.0,Beauty,Female,15.0,Negative
+bb5e1b82-0785-43e1-86ee-e04f4cca4b34,Thus ago defense fire account its safe same economy every avoid song education.,,483,0.6093208005244699,49.0,Electronics,Female,147.0,Negative
+1607ce25-0e1e-4f6f-ba53-3003047047db,Around different across weight while strong trade wind discover arm American produce.,2.66827252342941,388,0.3932312128725888,30.0,Books,Female,266.0,Negative
+b353c0f1-69c1-4c22-ae5d-7363a3cb0eac,Relationship health well out mean ask.,3.499609409534283,428,0.9729147998203878,47.0,Beauty,Female,352.0,Positive
+1c35346c-e904-460c-a5e3-92d831b00aa1,Among step expect last two writer affect many probably word with cut food they.,4.010780415079525,153,0.6332512306087394,18.0,Home,Female,172.0,Positive
+dce11364-b393-442b-88bc-830a3c002b0e,Notice keep loss should fact week part situation economic.,2.874614752475404,460,0.9663096080328357,55.0,Beauty,Female,311.0,Neutral
+b5376992-69da-4bc0-87fe-8848d43185ba,Huge project quite than rather difference.,2.9886705825195024,256,0.5826568834963948,55.0,Books,Male,161.0,Negative
+78fcceec-21d1-4af3-9714-51b95d3af8cd,Measure training clearly fire ask especially edge no I.,3.950841253995857,381,-0.17319807130101883,43.0,Electronics,Male,31.0,Negative
+a742bdca-1b09-4b50-b1ba-0d6ef433691e,Seat indicate art west pull trade though yes author.,2.5650083346648915,474,-0.7354221144825739,30.0,Beauty,Female,1.0,Positive
+df57fb10-910d-457e-acdd-be77d7aa74e1,Light federal age particularly student first small.,1.4414752117182426,297,-0.23523915505518023,53.0,Home,Other,237.0,Negative
+10335724-b6ec-4ea0-b8a6-e6c5facbe0d0,Condition project structure summer account choose wall challenge oil book soldier serious.,4.5349799212220985,326,0.8412619579840805,59.0,Clothing,Female,231.0,Positive
+e5788de7-96b7-4b9b-8208-8717f31d7a0f,Serious too agree television wait relationship ready leader west.,4.639849812275619,230,-0.027427035786124154,54.0,Clothing,Female,336.0,Negative
+7a9f7caa-b902-4ba7-b85a-558c3ded1415,Already no close own much someone the bill mention special effort very.,2.5424038416495454,370,-0.352276667380252,54.0,Home,Other,319.0,Neutral
+6c77f55b-0408-4c14-aa9f-1670fbc99204,Marriage them off sit although against by start participant understand indeed expert within.,4.945566172582162,194,0.014542004373350181,54.0,Beauty,Other,69.0,Negative
+df3d83ea-50fb-4991-acfc-951dabd7f729,Couple house notice discuss street ability scene.,,222,0.5773411798555572,,Beauty,Male,348.0,Positive
+dc9964ce-d81a-4648-a4e9-3b22b77de918,Authority account television lay company hotel baby.,3.978851393710556,318,0.24907089742830424,28.0,Clothing,Male,100.0,Negative
+584473d8-6a40-4934-85bd-aee5f241248f,National series evidence simple write whether player.,3.016616028920861,460,0.05389165211888569,36.0,Electronics,Male,42.0,Positive
+ed751470-498b-4df2-93f7-93bd7b31fe6c,Prove door American age paper name person.,4.8822841945227555,338,0.9611502564468584,21.0,Clothing,Female,202.0,Positive
+682bdf34-6024-4134-90a9-bc6e1542bcda,Century its field listen billion make interesting first someone enough statement environmental manage economic.,4.685398600926893,308,0.1941670401603841,63.0,Home,Female,158.0,Neutral
+4ee839fb-4b10-49bb-9ae5-b66247fa3481,A similar prevent speech both standard another network training himself agency at fire.,,83,-0.7368577271774643,37.0,Electronics,Female,224.0,Positive
+4b675efd-bad1-404a-81b0-c82425f9e860,Already someone station perform true positive wall teach human list event.,4.836819647093295,418,0.574257893691136,28.0,Home,Other,39.0,Positive
+07ff8e10-1096-4d56-86ca-a18de534459f,Store management perform part order network paper kid.,1.5311463124701055,102,-0.662239661190497,34.0,Clothing,Other,306.0,Neutral
+adec6ca2-e26d-47e1-bbde-976c470911fd,Everything suffer name growth political alone attorney investment thank music his.,4.280513817243278,316,0.709063776407264,36.0,Clothing,Male,288.0,Positive
+13609105-0818-448b-b339-5fc502d5d146,Plan work far thank she exactly benefit marriage however crime ball during.,2.329362057146315,326,-0.5742199580428999,54.0,Electronics,Male,246.0,Positive
+f161b0e9-8f83-4c40-a966-b82ecdeff24d,Sense notice hit fill low reason send.,4.180519387923997,68,0.8229487937707398,57.0,Beauty,Male,99.0,Neutral
+20611ec9-a76f-4c5c-8ba6-d0d69f75d02c,Six might apply compare leave risk end eight.,4.194496965382469,456,0.41804894645344537,30.0,Beauty,Female,452.0,Negative
+9d05f03b-3c15-4565-a57b-e8fd152564e0,What other building bring hair purpose them product customer dog suffer field school.,,99,0.5623371817942613,18.0,Clothing,Other,499.0,Positive
+b430036d-1a89-43c5-a94f-6d8ca9efa2f2,Several arrive these call suffer six she it opportunity position at.,2.6286117472301576,124,0.9355647928144881,25.0,Beauty,Other,449.0,Neutral
+645411e3-2541-4a13-ae78-3362ab472b67,Young note draw response move prove exactly year data coach.,1.3876873837929464,234,-0.423787132290943,56.0,Home,Male,88.0,Neutral
+a883ac10-b37b-4120-b3eb-e459c6bffd7e,Return such cause save also military range series whom responsibility professor government.,4.021530125710793,97,-0.3141822987876215,54.0,Home,Female,1.0,Negative
+bd15c339-d288-40ed-ac2e-5cc9833ad519,Spring personal base particularly win protect stand maybe city state produce.,,196,0.05509344547105943,29.0,Beauty,Male,316.0,Negative
+55c58daf-31c9-4204-8ff5-1ec79f476594,View live daughter six of college college record.,1.7749217156838646,383,0.15331265171221298,63.0,Electronics,Female,138.0,Neutral
+798e09b3-a70a-4d52-ad96-c1698ce265dd,Shake true wear vote lead everyone best half technology what.,1.1487348920428095,161,0.12168699630384983,37.0,Home,Other,262.0,Negative
+6f7d94d4-ac37-4942-b876-77d424e48415,Fact energy wish sell notice drive tough represent room community work.,4.370156151418605,123,0.2830069569846254,58.0,Home,Female,479.0,Positive
+6afc14e9-f50c-4de1-9489-f8c1618ac9f8,Model grow want all mother important worry.,2.824496512670228,79,0.8480360407778766,55.0,Home,Male,0.0,Neutral
+b3222f0c-4e94-4c2e-993b-5b166b449ac7,Dark collection ahead cover site base.,2.9911411634450253,413,-0.5161709654024136,26.0,Home,Male,184.0,Negative
+47318baf-9fa0-41aa-9d06-b1c557702e1a,Social could idea physical wife late size suggest.,3.338415340306381,417,-0.8089856584389767,35.0,Clothing,Male,326.0,Positive
+ecc62871-4dd9-4330-899c-d37f4ac20e16,Suggest speech oil force onto practice agency.,,114,-0.8222609688659954,45.0,Home,Other,454.0,Negative
+1c635a07-fe82-4dd1-ab72-74001b8381d3,How audience person general north involve.,,440,-0.08342359797147081,59.0,Electronics,Other,397.0,Positive
+bfba686d-2350-4f22-9407-f49badb9da21,Low radio return exist party eight our interesting plan audience.,4.356908675917248,53,-0.03620036534126103,58.0,Books,Female,284.0,Negative
+709e48a3-c182-419d-8849-f8629d319d73,Set court half resource side product clearly certain identify true also.,3.705853055359559,102,0.9797072033644023,49.0,Home,Female,42.0,Positive
+16f5f665-9473-4a3a-b0d9-1a65aa815f8e,Space box glass day fight collection daughter short style it.,4.085566191345434,381,-0.7427769429350743,19.0,Electronics,Female,271.0,Positive
+59e99e0d-5015-4102-a24f-165c7043ab52,Rock success not Mrs should own help me.,1.7673808077972235,286,-0.33494647118745324,48.0,Home,Male,375.0,Neutral
+2100f9f7-d312-4e84-90c7-2967ba6f4873,A plant wish one land speech hair home economy standard miss.,,413,0.5281544417400144,46.0,Electronics,Female,250.0,Neutral
+ba4ae712-6891-4b27-95c8-2cf8ee7d24fa,Believe more join whatever change audience gun.,4.319500706227437,381,-0.6703780153486871,29.0,Books,Male,128.0,Negative
+9307b9d4-4330-404c-a423-79476e6b03b1,Form office help choose decade model into.,4.040440012185367,279,0.7210770026763724,38.0,Electronics,Female,284.0,Neutral
+9081a857-3c0a-4f73-b320-e48ccb3a70fd,Room east authority claim computer message home summer investment doctor east.,1.1918883898939274,252,-0.3777330722097658,32.0,Beauty,Female,289.0,Positive
+2856d87b-b73b-451c-b0ed-b6e195a7240e,Point reduce southern worry woman two majority pattern government space include throw explain.,,291,-0.990311930321875,32.0,Home,Female,352.0,Positive
+0dafac3f-d496-4251-97da-87569a7c781b,White hold attack where however hospital available town less.,2.695772282885683,246,-0.19282106267546917,27.0,Beauty,Female,18.0,Negative
+6efba938-c7b9-4ac6-a27e-4b326f796e2f,Probably control contain film final see current along picture law.,4.711795075261998,405,-0.34606244646700013,62.0,Home,Other,21.0,Negative
+ce78dc10-8346-43d3-ab03-4b26b9243ffb,Far only physical rate exist now.,1.669946589378922,94,0.3713836535802484,54.0,Home,Male,343.0,Neutral
+ccfb016b-1922-4f1d-af1a-527a900c12e2,Accept girl kitchen sign radio bit drop opportunity make health break head scene.,1.3284146204445109,400,-0.07284957051368446,43.0,Beauty,Female,,Negative
+9152ea0d-2dc7-43ee-8945-26f92f802aaa,Guess message customer office where all mention upon.,1.7758740232663994,289,-0.5851762989102574,55.0,Home,Female,264.0,Negative
+610b0fbd-014f-4f9f-9593-6d63f5eaf08b,Candidate election event official all weight meet them report language per throughout law.,,262,-0.61622640352978,29.0,Electronics,Male,460.0,Neutral
+b166956d-6d31-41a8-9a96-de9cc318f534,Manage thought nor challenge amount degree indeed score.,,97,0.32194632579042515,52.0,Electronics,Female,119.0,Negative
+5e30d37f-fe40-44a1-bfd7-8e203f695c9f,Information year year federal around ability find instead listen threat hand example show.,1.170179961861046,295,0.38224232447140305,36.0,Books,Other,158.0,Neutral
+cfdf1ead-1381-4b19-acf7-565443a50e57,Item painting employee management range view return head mind.,4.475083955914964,208,0.6374679616156398,26.0,Beauty,Male,315.0,Positive
+a097cecb-57e7-4d20-88a3-af4d19965814,Participant ten suggest make southern leader staff suffer pull data evening interest.,3.512215885124391,417,0.9523305663104062,41.0,Books,Other,50.0,Negative
+3d4b18d5-6960-4db8-879e-a2de93601c9f,Indicate system deal reveal maintain sometimes food stand free important so room.,1.4415797698196866,333,0.07158550707939049,63.0,Books,Other,,Negative
+12851e66-5428-42c4-9933-1c8e674146cc,Energy wall recognize how left chair red despite gun region would moment activity.,1.321954935659551,97,0.6300241086447151,61.0,Electronics,Male,384.0,Positive
+65e62345-607c-47a0-b353-38809bce334c,Its policy there rock fall rather save sport.,2.1785799796308636,224,-0.696596874796132,43.0,Books,Male,94.0,Neutral
+3a6b9b0e-9f70-4b12-ae4b-73ac7da6fc74,Then half wall however sing another stand education.,2.294156436867079,162,-0.6676847604367138,49.0,Home,Other,,Neutral
+715f3fcb-a804-488d-a41e-0e5e53c10b7d,Hundred term know sign already president he fly staff walk environmental.,1.549752836923758,335,0.5338778445642303,36.0,Beauty,Male,358.0,Neutral
+3aa846a9-44f0-4e52-b990-0595a06a078e,Easy Congress method college worker easy receive list.,1.6828151820683885,146,-0.8551078469311628,38.0,Books,Male,237.0,Neutral
+ead50c40-0f06-4a36-b629-00f60c09965f,Cause break quality while friend behavior follow cultural series.,3.6891960857566786,479,0.4326511596585165,21.0,Books,Male,465.0,Neutral
+e9fb5ae6-4bcf-42a0-ab22-b101e7e26dd9,Customer few effect professor real owner education smile another apply quite entire.,2.9363606571238132,207,-0.6713047003923407,31.0,Beauty,Female,378.0,Negative
+e3aff8d5-e0ed-4fd3-82eb-506afbd87a85,Soldier feeling first difficult thank until third boy still couple.,3.3476423564369995,290,-0.5042222932705,31.0,Beauty,Female,356.0,Positive
+23261601-79c0-4895-99e5-4b26803fd466,Everyone teach word not right beat Mr treatment lose leg society.,3.879016221160513,402,-0.46230819649939714,56.0,Books,Other,305.0,Negative
+737c473a-1362-4251-98d1-256fecf48eb8,Wife policy travel blood practice standard camera development north total window.,,361,0.7109499716774255,18.0,Home,Other,410.0,Negative
+9c16a1c2-456b-48bc-a8a3-1218e9d2d0f1,Very role evening all write score government police.,1.9330377064380788,311,-0.6536941169649575,61.0,Clothing,Female,100.0,Negative
+67051ab4-d7b1-40f2-88b9-7afb49f4d8bc,Executive return out best owner position.,4.042872393717117,107,-0.6813285643558127,31.0,Beauty,Other,460.0,Positive
+a48b9f92-9b05-4447-ba95-3d2f4183b123,Follow beyond pick our example dinner face result result spend which everything mission.,1.3980573536499925,323,-0.8757806400127455,54.0,Books,Other,177.0,Neutral
+9fb78ff1-b013-4b99-8c4f-b61334a2db1d,Certainly little resource vote benefit there finally.,,157,0.9719696914677203,18.0,Home,Male,44.0,Negative
+b15c19ab-8cad-4a1c-9684-2dbf5a068ab6,Agency campaign this probably far community difficult way why leave within next.,3.0341930591767508,335,0.09166497500471915,52.0,Clothing,Male,51.0,Positive
+06e94b5e-a8c7-448f-8144-aea8323ea33d,Quite their something like line site pay feel others.,3.8984182129094753,371,0.23639720710036816,63.0,Books,Male,60.0,Negative
+89138f6e-dd1a-4731-afdf-c19e520d85dd,Rate read pay particularly history young inside thousand hotel property accept cause measure.,,455,0.7898996565712479,39.0,Clothing,Other,165.0,Negative
+efaf537b-66f6-4dd8-a6f3-b9bad139579a,Personal actually safe ok organization record tax interest worry building TV customer second.,2.70439576700802,441,-0.7505524013838092,34.0,Books,Other,473.0,Negative
+cbd2daf7-f685-4e9a-8f59-6e8ac3a2f39e,Cultural factor life with up decade.,,231,-0.7331606293803175,49.0,Home,Other,24.0,Neutral
+103c7a03-2444-40d1-be52-3ea89758bb04,Program against condition marriage message nor hit subject off him.,3.3972084633208413,491,-0.3829797103302768,51.0,Electronics,Other,327.0,Neutral
+b13c2fb8-9108-4ea8-aa92-c862a486fb21,Be change manage good meeting require drop education keep value sell type upon.,,85,-0.8789848298336564,55.0,Home,Male,223.0,Neutral
+a8c18be8-ad82-4ad2-bcdb-cc780d34e1a3,Bag out white water sister hand war artist join old environment.,3.744364307938746,460,0.9938341082108826,54.0,Home,Male,356.0,Neutral
+7c48236b-2e87-4c50-bc87-085c95abbafe,Effort tonight well unit so important far fine lead.,4.22217472003306,431,0.47441306033796526,63.0,Electronics,Male,331.0,Neutral
+37c71b06-5d28-488d-aed5-60b3feb5afac,Position professional suffer more tough school entire kitchen customer phone.,3.074188857383136,335,0.6393122547883248,,Home,Other,98.0,Positive
+1d9f83db-717b-4924-a02d-fdadd8066d7d,Identify today more finish too cover detail.,3.7291704051275762,361,0.8094346642660197,64.0,Electronics,Male,334.0,Neutral
+a09577fc-e901-4094-9740-399b054c7d2f,Speech nice small explain under affect win fire admit treat produce sea book.,1.4770846981649304,327,0.5225310970623824,48.0,Beauty,Male,337.0,Positive
+0790fcef-f4dd-4bc2-8506-87f532f95a88,Social especially five or final four true.,2.833640772127876,144,-0.2434709337769665,,Clothing,Male,270.0,Negative
+6f2219e7-b87c-45bf-8125-0ab86d467e47,Church color leader herself really want per threat sense executive decide media.,,143,-0.9365710707367374,59.0,Beauty,Female,1.0,Neutral
+56e73a05-d38b-4235-9859-e03d4270bd43,On thank side result guy under land able rest near.,1.651295821438194,187,-0.8332449527086916,18.0,Beauty,Other,,Negative
+821bb1c3-8a27-4442-a26c-712ba7346ba8,Mission indeed why million upon finish four produce while war nature adult.,4.162717197498107,94,-0.9529272875809973,50.0,Books,Female,455.0,Positive
+0a9dd96a-c2ba-4c22-92a0-1a4d97feeeba,Kind clearly management guess hot dark service manage national speech officer say experience.,4.6885314669623455,51,0.8078524550192294,54.0,Clothing,Male,80.0,Negative
+9afeda70-1996-4f8e-877c-71941c5be8f8,Summer western build argue order only standard focus institution Democrat imagine writer lot.,4.671550875177111,220,-0.05103999836470985,57.0,Books,Other,49.0,Positive
+051b3979-fff5-402a-816a-7c3b447021a5,Well real put room movie may check man ability against body per.,4.868452953782792,177,0.996574078487912,51.0,Electronics,Male,,Neutral
+2efe359c-6173-41db-b680-62c945c47746,Tell stage write deal Mrs world want meeting line record will become sport.,1.7067618496651797,463,-0.22359352347462047,23.0,Home,Male,105.0,Negative
+55168c57-d122-431c-9a57-f462231bff12,American interest difference itself front partner hot someone yeah great include.,,455,-0.19159776043519927,54.0,Beauty,Female,451.0,Positive
+f5fd22dc-18cf-433b-a2c7-167f50b6b0c0,Across outside trial including picture almost serious wall full beyond something.,3.8212529707368614,88,-0.5724119910091607,24.0,Electronics,Female,338.0,Neutral
+3ac52e9a-6794-4d42-9867-b0e8229b2c6d,Speak information work represent put western true authority lead.,4.996558303436027,162,-0.34531704818037134,18.0,Beauty,Other,197.0,Neutral
+18f0965d-a53f-498a-945d-893db124e444,Within boy building style draw offer near job point relationship key.,4.741441298222437,372,-0.34597948734112527,,Books,Female,209.0,Positive
+3209baf9-90f4-48f7-a902-e5d98a0f1fef,Mother rest list usually black remain could.,3.7011310504135317,411,0.9591038372961733,54.0,Electronics,Female,176.0,Neutral
+2952c7e6-caaf-40f6-9475-a0468f73d421,Type sense a important part action on require voice win bar appear always.,4.645563493255038,251,-0.7004597223209161,28.0,Beauty,Female,231.0,Negative
+3bfb6b64-6cbf-4344-a546-f48326b567c7,Manager loss boy college fast step defense.,2.065578294323974,437,0.885626602537837,22.0,Beauty,Other,468.0,Neutral
+d2fe7365-b5ab-44d8-81ab-4cc286bfc351,They large nice around film break suddenly point executive everybody.,4.186582676793607,420,0.8688749726314506,40.0,Beauty,Male,474.0,Neutral
+3645e817-d461-4e62-a6e9-0e22d4d66431,Item kitchen international wife turn both.,3.1022469021615255,433,0.2524772301005629,46.0,Beauty,Other,267.0,Neutral
+74ab09ea-0a3f-4115-abcd-3e1875d1d0d1,Husband his above way attorney simply whatever enough cell if.,4.203007273702133,286,0.1973308547607009,45.0,Electronics,Female,132.0,Negative
+c3363afe-41f2-4c47-9dce-5c0ab648d87b,Official compare born term to concern into child.,4.596608368670413,494,-0.337240258966649,,Electronics,Female,142.0,Neutral
+ca8ff6b9-85ea-486c-9cc6-bd6675aec033,Hot budget recent little bring south better politics together sort activity send address.,3.850962025288017,273,-0.19779138931450002,63.0,Clothing,Male,466.0,Neutral
+d4c27649-082f-44cf-bc91-63d1499e7ae5,Happen everybody stuff commercial catch poor available relate environmental carry city Republican reach ten.,3.213405285141344,85,-0.5433488465664305,52.0,Home,Male,,Positive
+05ce87bd-35ed-44aa-9c53-2c484f2bca06,Serve field admit begin citizen last then.,1.1331841309981292,209,-0.2600341739790124,35.0,Electronics,Female,162.0,Positive
+0a2686d5-bda3-4aca-8c46-59c556bd87d9,Card structure draw stand rather reduce treat us so ability allow possible.,3.1259700952309535,161,0.0038052404550676933,19.0,Electronics,Male,,Negative
+21d66980-e7d2-46a8-897f-4d1981019ab8,Measure among no effort employee figure century plan.,1.752263209099512,109,0.6755139755348056,34.0,Electronics,Female,461.0,Negative
+f7c4d2b2-0b1b-475f-8dc0-f455664dc06d,Modern call term owner almost pressure.,4.474074729321497,209,-0.35087715089958027,46.0,Clothing,Other,346.0,Negative
+bf933e1a-9006-4ad8-8938-4c71d20fd6e9,Pick appear relate stop place leader they travel movement attention ability enter eye.,3.588157905204884,112,-0.21763501557016895,19.0,Electronics,Male,398.0,Positive
+d392989c-7962-452a-996b-ddbf7f848447,Follow charge travel four some southern stay.,1.9871206999672935,145,-0.719495246240877,49.0,Beauty,Other,181.0,Neutral
+2a7a0ef9-eb45-4b9f-a91e-722b6be34ad0,Site growth market smile within memory ready project investment kid start beautiful industry.,2.5765106565134883,477,-0.79961425358383,50.0,Books,Male,205.0,Neutral
+169c2901-1887-4280-9318-e0a13d5e8c65,Guy fire send represent start official herself.,2.2824824076315227,88,-0.9794173527645347,34.0,Home,Male,251.0,Negative
+c8ba3fc8-5b2c-4e84-bd6d-24ea6c6df50f,Forward analysis role control all very just lawyer change speak price toward professor.,4.694382767369095,388,0.5379851499594337,22.0,Beauty,Male,160.0,Neutral
+73394a0a-fb51-4e37-9e8d-fd6ae173e0ce,Offer fight particularly push key fly no because hour.,4.762837883861721,460,0.11758559183615547,58.0,Electronics,Female,349.0,Positive
+d81990b0-7956-4347-9a01-2ba014788f5f,Choice moment prepare wall notice yourself garden.,4.356904403103449,350,0.10147007665271057,48.0,Electronics,Female,189.0,Negative
+978ba973-cc5a-4027-93f8-d3119f613e61,Or military prepare I song region central responsibility.,2.3289572838614823,55,-0.698543387264597,27.0,Electronics,Male,151.0,Negative
+326b9b65-7140-416f-b11c-0ccf1b08679f,Someone in sing reason station collection down accept church believe natural down.,4.031419243728239,371,0.4798675142240081,30.0,Clothing,Other,263.0,Neutral
+117bbe34-1c28-42a3-9295-7242141f4c39,Body how through fast energy opportunity that.,3.3460896867070433,128,-0.016956825262568476,21.0,Home,Female,457.0,Negative
+94b60a0e-fc9d-42b5-a733-1805e05c522d,Send administration trade force still wall start this certainly know property.,2.2740235211325466,61,0.061723699958448286,43.0,Books,Other,481.0,Neutral
+ab37e484-c379-4d9e-874d-d99dc335fc7f,Base site nothing factor history believe history follow evidence feel try.,4.717614985303955,289,0.9282168145828738,21.0,Beauty,Other,25.0,Negative
+c7c0979f-9587-4a97-84ce-618c55226429,Often according budget sing hour none own most the claim send.,2.8043580542671545,290,0.34725270912845896,38.0,Electronics,Male,76.0,Negative
+c69b88d4-236d-49f8-8a82-c49f2d340e6c,Congress must black one college rise owner end let.,2.0046965078732017,141,0.6232525925557637,42.0,Books,Male,373.0,Negative
+419f2314-b4c9-4355-96d0-a8f4508ef12c,Contain why process agent case or.,1.8989606616531534,232,0.18809527668661552,34.0,Electronics,Male,177.0,Neutral
+4358a3c0-ea04-4fda-8440-74884249cd76,Present suddenly often letter recent my of experience too citizen.,,236,0.27583628896884216,56.0,Electronics,Other,232.0,Neutral
+f7f8523a-e272-40fb-a00e-5cf08e0171b2,White government partner reveal receive PM every station.,3.5986032648623145,257,0.8897565213875942,61.0,Electronics,Other,354.0,Neutral
+f9c054b5-a5ca-4fd8-890a-75a7204f7f01,Street morning morning bag now specific though husband enjoy approach common inside itself.,4.772188782833,385,0.9711611576945569,54.0,Clothing,Female,323.0,Negative
+8ea18225-e712-4b09-902f-ade0aeef4212,Law about serve success sport true state.,,331,-0.2392256065449747,49.0,Home,Male,222.0,Positive
+ce1262bd-7672-4dc6-aff7-7b9b4101f9f1,Name actually thought usually not check worry message.,1.7578575040426951,81,0.18408097620424524,32.0,Electronics,Male,453.0,Neutral
+d73e68b5-828f-46ba-9797-76aed82bc6ae,Bit option watch chance station year situation more theory crime deep.,1.8689868260490239,478,0.7436155278521894,50.0,Electronics,Other,,Neutral
+239b8e59-dd6f-4b0b-b185-31fcf86ca72b,Land option reflect art television international.,2.5542450088107183,295,0.3461785474592056,,Electronics,Other,6.0,Positive
+e7e64aa1-0dbf-4868-bd85-7225236ce7d8,Central game face save writer guess must wall education instead.,3.062012247518111,281,-0.0106542739790223,19.0,Electronics,Other,388.0,Neutral
+c03e9acc-9133-4c1b-9c28-cdc81ae6b6ff,Defense together determine local such which memory agency consumer yeah answer dark impact.,2.8398285265483247,267,0.3948300195961698,47.0,Beauty,Male,225.0,Neutral
+f4cde249-398f-46fc-b3b2-1c1ef71806c4,Near walk stock focus number even.,4.6833614093439095,168,-0.009076688915746756,23.0,Electronics,Other,224.0,Neutral
+ee6690bf-f4d4-420f-a2c0-e2901457477e,Large though still politics day method court.,3.724529357668635,471,0.660978897441945,51.0,Home,Other,,Negative
+2a7dc23c-c458-4cfc-8771-94cb2429711c,Red situation adult item sing window.,4.213240952986827,220,0.05889234677200683,33.0,Books,Female,88.0,Positive
+33303885-dcf6-4268-97c4-8263e899fdc7,Wait important let husband tree pull individual teacher memory world success.,4.398948644013634,496,0.09840343572047683,38.0,Clothing,Male,98.0,Neutral
+7f45c945-614d-43ab-bf64-2ac5694e861a,Relationship low activity believe stay begin travel report.,,82,0.3464423111611812,59.0,Books,Male,180.0,Negative
+815a8cff-1754-4eeb-95e1-1be5add4e05e,Idea team position institution upon process effect form.,3.481531458669417,381,0.09397751895384299,60.0,Beauty,Other,110.0,Negative
+c12b2c1b-6d15-4a27-81f9-f607e31883fa,Its century evening heavy field mention able rich impact wind wait interest.,2.268682652345765,407,0.46822895503027073,20.0,Electronics,Male,172.0,Negative
+47b211aa-2eda-474d-90d4-560ae5af080a,Learn add treatment dark nearly wonder serve six.,4.049659243631224,72,-0.36080373791642684,56.0,Home,Male,108.0,Neutral
+cd6d8cf9-0e54-47fe-8b48-0167de4bd0bd,Whatever coach account boy laugh current someone side.,3.633872037679546,434,-0.5360960448718404,56.0,Clothing,Female,416.0,Positive
+0e20ead5-828a-4d29-a742-03d1ef170729,Difference determine control standard have meet.,3.1299158002513017,220,0.5155673944002503,22.0,Clothing,Male,,Neutral
+eb048800-0d23-4337-a737-eea933fcecc6,For they give plant job throughout stock throughout course.,1.9580346991946072,188,0.5557055302673228,27.0,Beauty,Female,367.0,Positive
+817b5bc4-8618-4fcd-a36c-0e27413a6e07,Late choice expert follow total much summer accept beyond enjoy ago.,4.528008180822272,277,0.20111132848160884,45.0,Clothing,Male,170.0,Negative
+6332797e-f473-4356-a070-b10e6e9f5390,American receive and for poor table.,2.1104760921150603,432,0.15406225225666903,30.0,Home,Other,163.0,Neutral
+03b46335-63f9-45e9-a13a-3956c74efee7,Personal which level purpose ever best everything until heavy senior effort.,2.996683168673345,232,-0.5515483007753785,40.0,Books,Other,420.0,Positive
+478a38ed-d46b-4f50-9ce0-c9699dff48e7,Spring believe poor individual successful fly certainly hour.,,308,-0.8173589311873437,19.0,Electronics,Female,422.0,Neutral
+e38e5476-0ff2-493d-b17f-b0175869c63c,Those particular parent summer move good recent look draw well police mention.,,75,-0.9668383849884832,48.0,Books,Female,234.0,Neutral
+8d5d9645-ca17-40f4-a79b-97f1b12f89a1,Determine before red car media yard what wear owner poor store.,4.685287754879684,364,0.40439508090479226,33.0,Home,Female,475.0,Negative
+a1448809-5842-4935-8a94-58ef8b9af552,We bag physical open chair charge professor short simple capital show million capital.,,286,0.7131972755629981,18.0,Books,Male,,Positive
+a2b8b59d-f31f-4fa1-a4a5-ac1ceb56f1c5,Election behavior cut rise a race my amount almost story.,,185,0.9644726081700516,36.0,Electronics,Other,278.0,Positive
+d2a1d6c8-a332-4f8e-8e8b-be0ff7a31b77,Find attorney suggest claim reveal clearly which become her serious sometimes simple.,,373,0.9339241781195289,38.0,Beauty,Female,450.0,Positive
+71297e17-763a-44fe-b621-b1c65479a338,Always language spend east police lawyer system economy partner.,3.564592909842151,75,0.8455484498754506,26.0,Clothing,Female,7.0,Negative
+aa18dc8a-ddb5-459a-84b5-483d7ebe43ff,Floor message detail away seek couple cold author end someone me consumer security.,1.344401838276318,411,-0.5004001252179533,,Home,Female,303.0,Positive
+a109e73f-c016-41f7-beac-dfe626056adb,Safe so increase environment tonight week trouble time return surface although product.,1.2350776414954967,286,-0.7896873113349505,44.0,Books,Female,238.0,Positive
+3008baec-b8c4-4601-b749-256039517f06,Property magazine herself college today pretty spend.,3.961223728638333,86,-0.7642279924299469,27.0,Clothing,Other,279.0,Neutral
+cb6eac98-9fcd-4ea7-94c4-d83fdc2f9218,Believe fine hear brother TV Mr time.,3.7676537091608084,203,-0.482586523996811,64.0,Electronics,Female,246.0,Neutral
+f7b1da23-9c3e-49d4-9004-bd7bda5b564e,Gas economy determine situation term seat choice necessary style class standard.,4.862687344188867,352,-0.8799799192608502,63.0,Books,Female,133.0,Neutral
+66efd764-12ab-4a20-bc63-94455c322cec,None traditional but six bank particular reach recent.,4.4015115070371165,386,0.4386283713803314,27.0,Home,Female,262.0,Negative
+034c48c3-0965-4424-b457-bced8f3e5503,Hospital why sit now issue exactly expert onto a fact help hotel voice.,,414,0.6913365699157599,51.0,Electronics,Female,19.0,Negative
+f4fb06ba-44ac-45fd-901f-f79859a95384,Positive budget lot body industry control.,2.525894502904806,161,-0.5639462425442157,20.0,Home,Male,438.0,Neutral
+387832e1-dc73-4832-93fb-58e58dc42f13,Also by general leave class debate give friend.,3.4171406102141435,483,-0.6772149327531758,43.0,Books,Male,179.0,Positive
+27832614-72fc-4327-8171-87b7d0132650,Treat doctor indicate power center six another start finally task visit on full.,1.4176477571513062,300,-0.7684940851943762,64.0,Books,Female,59.0,Positive
+d0d21a7b-52e6-426e-b5d6-f2be3eae1704,Skin treat fine traditional process child change black hot.,1.9555963575387207,330,-0.3061623151776456,34.0,Electronics,Male,218.0,Negative
+1b3ea288-0e45-4d46-b401-edd4da18acd5,Spring continue reach personal only leader because arm choice daughter spring low chance.,1.575292194460025,80,0.6810648729475925,33.0,Home,Male,32.0,Negative
+9e31681d-babc-4c04-a32d-01c0743975bb,Stop size future receive save trouble subject garden environment former.,3.40996354040565,223,0.2179244477895883,21.0,Beauty,Male,123.0,Neutral
+6fcf7569-cac3-4bc7-8d1a-4b07a737462c,Fire police sing medical wall approach part.,3.832997088789345,382,0.1533054094879629,,Electronics,Other,385.0,Negative
+abade77e-98b2-44e8-b099-732ab2290204,Participant sign glass then expert family answer point head use choice truth strong.,1.7304800463148133,404,0.7036280757315043,49.0,Clothing,Male,24.0,Negative
+5215dc7b-4ca4-4994-9819-4db0bd0484b7,High call good support group hold deep.,4.439451168618701,318,-0.22497602622784352,49.0,Books,Male,450.0,Neutral
+3693a9b0-3741-448b-bae8-ff528a824154,Treat speech fast already enough light a evening.,2.1526327714371414,178,-0.7026511668364386,,Electronics,Other,241.0,Negative
+197f8107-11b4-4544-be58-efa7a709644e,Heart walk suffer ago leave both end travel admit medical.,4.456048558037832,77,-0.8387542750896047,18.0,Beauty,Female,137.0,Negative
+8585d1d4-6b27-47e0-b035-e2d79acd757a,Major natural truth form another create hot among street really effort unit.,3.6377078205388775,319,0.1852343916952106,45.0,Books,Male,35.0,Positive
+4f281de8-146b-4694-894f-18bc6810d580,Data season country listen beat wind crime usually modern decision time eight skill.,3.7790384416950875,241,-0.8177463917991359,50.0,Home,Male,77.0,Negative
+51093d3a-3892-49f2-ae87-76e14eb51ac1,Life movie business woman front chair when.,2.432683082025629,228,0.929423955167423,,Clothing,Male,417.0,Neutral
+52a87479-725b-49ee-b380-56ff1ae8e930,Describe city movie reality forget involve young forward guess blood others after.,4.444591499859462,197,0.2124498987691612,32.0,Electronics,Female,413.0,Positive
+1973b278-ba8a-4fb6-8610-6c6fbbab42fc,Plan point behind politics from Congress.,3.502966967422812,54,-0.7344653750273367,59.0,Books,Male,110.0,Negative
+158b1573-bb62-4274-8329-deb7bd6ccf18,Service sport half we certainly pay very traditional base deal people.,,53,0.3804214196682085,47.0,Beauty,Female,221.0,Neutral
+96a958d9-99e2-4af0-8caa-86da70856892,Sell source let news get like floor practice argue though of.,,458,-0.8017697978761129,56.0,Books,Male,11.0,Positive
+92b7b353-7b2d-4da1-9516-c3b64dc4b1b5,Consider deal but attack poor any.,1.2521630648119908,61,0.6565640548027576,25.0,Electronics,Female,,Neutral
+26e32cc8-2314-41d7-be20-47a5fb71220a,Low then meet southern people view national probably stop run item change.,4.847593733981526,299,0.19393769322496812,58.0,Books,Male,360.0,Negative
+5974806b-b3ae-48c0-84bb-0c0cfeba0f6e,Everyone instead knowledge prepare purpose bit name whom employee would above her within.,4.880816522947044,477,-0.1708190929652864,27.0,Electronics,Female,393.0,Neutral
+d411af4d-6afa-4a0a-a9c8-8c2f7ecb6827,Meet chair campaign onto respond those.,3.1840961897342224,163,-0.03793820092523803,58.0,Beauty,Male,363.0,Neutral
+fbb17024-f90a-4835-8f3a-2405249eaaf5,Factor defense true be follow life job.,2.6658484280089136,222,-0.8520618068219694,47.0,Electronics,Female,441.0,Neutral
+6241de0a-9a4c-4806-aecf-0748f60050fa,Unit reveal too six be ago head white field.,4.267531573038184,201,0.5028529180339689,22.0,Clothing,Male,329.0,Negative
+1e096744-7b30-4182-bce8-21ce2297d6eb,Middle including determine hope analysis cover investment.,2.62900279208967,330,-0.3247810725731193,61.0,Electronics,Male,425.0,Neutral
+da3340c7-ce14-4259-892c-eee96b2bbb9c,Certainly care above model buy want feel.,2.7359019609111774,385,-0.5620529695247198,35.0,Beauty,Female,65.0,Negative
+463df11a-9a7f-4a81-a2c9-cfe3046aadc8,When suffer since near head happy mean a occur before exactly group I.,,269,0.15009481970592997,29.0,Clothing,Male,44.0,Neutral
+3378659c-1dbd-463b-abea-3c53bc0436e1,Year choice stand impact side picture.,2.2973521772116348,213,0.5264557014187856,19.0,Electronics,Male,214.0,Positive
+2f48a012-6d07-4329-9e62-3a57cba9bb50,Help whether style case again city picture keep Democrat senior despite hand if.,2.0515104429287905,370,-0.7102725314878764,,Books,Female,328.0,Neutral
+a203d3c1-eb7a-400f-8d00-99931126035e,Air evening life policy yet green different guess heavy soldier.,4.7731635810509445,479,-0.8253074750841849,23.0,Home,Other,374.0,Neutral
+be24a505-408c-4ef4-a374-9446234555fa,Never hit lose hundred myself might natural go voice himself military price along.,1.3315721863915257,333,0.43670291671043127,30.0,Electronics,Other,153.0,Negative
+bb33933d-1909-4208-9e7a-7e9ed783b47b,Decade land eye box thousand common church.,1.5067109763842543,128,-0.6977549442436572,26.0,Clothing,Female,232.0,Negative
+3464cd7e-6351-429b-93b4-8189e04570a4,Take relate itself very sort about value capital prove home trouble.,,400,-0.7015646753241531,64.0,Electronics,Female,289.0,Neutral
+693b21ba-8660-440d-80a0-e5ab013c6457,Standard key drop nearly affect speak visit husband daughter artist law family condition.,4.881231658522317,67,0.5873598207398423,,Books,Female,401.0,Positive
+0f094be9-c623-432a-9800-7880d0f3fb99,Worker red foot early prevent no leg meeting push improve life.,,404,0.9697405272110897,,Home,Male,273.0,Positive
+55f97a77-7e55-4e28-8cdf-7c4647c96862,Off claim yourself difficult run civil candidate theory development week way minute.,,165,0.38351926208384257,29.0,Electronics,Other,280.0,Neutral
+53dc78ac-4eae-4f5f-8726-d3384018dc9e,Age now remain country stock maybe sort only risk son forward similar.,3.7129611649164653,262,-0.6021136977068273,25.0,Books,Male,322.0,Neutral
+d8ad297c-73b0-4655-9ac0-3ab279eceee5,Bed street more others I inside.,3.2827532273528606,407,-0.4430361322713847,62.0,Beauty,Male,494.0,Negative
+ac8cba86-9a18-4e52-b01d-64849f4394dd,Right hair participant process nearly see.,3.336675128965975,168,0.4381289459084501,64.0,Clothing,Other,207.0,Negative
+c8fc94e6-c230-4987-9a24-b3fffe709c56,Activity community keep physical executive where exactly recognize camera tell page education.,3.478853064759336,160,-0.1256853967317526,25.0,Clothing,Male,143.0,Negative
+b50a494f-844c-4172-aa1e-75fdd95090c3,Conference last most significant reveal level different notice data south.,1.8457519467474315,427,0.49486008340315735,41.0,Beauty,Other,284.0,Positive
+e4c42d0e-8177-4411-ac20-2daba3c7b547,Benefit star writer likely scientist back late effect analysis common director time audience.,,318,0.7411312539001345,21.0,Home,Male,299.0,Positive
+64e04551-1f53-43ef-ae1f-d02ae24750d9,Night of single generation help lay choose game small music only on their travel.,1.9692983606273504,250,-0.783482889231859,32.0,Home,Female,317.0,Neutral
+8d184270-b82e-4fc7-a322-d25f43f16372,Wrong table speech trip point member most make wall network office.,,470,0.04593686624470905,60.0,Clothing,Female,434.0,Negative
+6a09bc58-8466-4e82-9f36-9144da88aed0,Sort Mr maybe ground western modern present follow easy live hear.,,123,0.2459156509860001,24.0,Beauty,Female,399.0,Positive
+7d1288d5-b9bd-4717-af11-105ff2b9fb67,Reality event great culture ground ready name wind she hand goal bag.,,461,0.4633957332685421,48.0,Clothing,Other,,Negative
+ea3dcb27-5ddc-410a-9b7e-60752a06d29f,Else sign wonder approach recently admit current mind return at.,3.2683272602061333,334,-0.00410324023918518,36.0,Clothing,Male,86.0,Negative
+42f4fd12-2fd8-40fa-b8ac-76e2f3af3c1d,Public into parent end tell need establish season fight yet per brother.,,82,0.25557323019787015,50.0,Home,Female,50.0,Negative
+23cc6637-f4bd-4ed5-9489-1612b26ef96a,Standard economic experience who air home same perhaps.,1.541553078874594,413,-0.31732621937821204,41.0,Electronics,Female,,Negative
+881bdc89-5265-487d-92ab-714b9ed8f31b,Mr whom look same analysis on current.,3.2948922717747497,462,-0.4337628864286469,54.0,Clothing,Male,290.0,Positive
+30407c32-3831-4a2d-94c4-1133afdb795b,Above wrong yeah party a authority or adult necessary know chance treatment pretty.,,280,-0.5281159695184787,38.0,Clothing,Female,170.0,Positive
+9d2daeb3-c91c-4284-ac63-dac691464bee,Avoid do red page discover during book reflect training say thing.,4.181920142721769,307,-0.40612263521977954,32.0,Books,Female,209.0,Positive
+4b905d79-34d3-4490-be54-7c5586ade98c,Husband class wife writer great answer place fish who data perform.,4.103012341609336,243,-0.2555830418329832,20.0,Beauty,Other,124.0,Neutral
+49c6e0ff-62d0-4f1d-ac2f-f571edaf4384,Big really develop right cover thousand usually even popular.,3.861965711650328,316,-0.020526096513996173,45.0,Beauty,Male,166.0,Positive
+a6dbd3d1-dacd-4162-834f-2417c5b7ca74,Arm quite ball Mrs professor your floor site let reason near adult.,1.0969321786159294,158,0.9501255139028013,54.0,Home,Male,87.0,Neutral
+00f5b877-594f-4746-a5f7-dd59ef910126,Above sound before pull involve data back magazine weight sing everything so across.,1.6202227348865232,349,0.39844048757564865,37.0,Beauty,Other,397.0,Neutral
+5abcf4c2-135e-4809-b7e9-3e88525b2fcb,Citizen indeed current discover change a support artist matter then natural only research.,,453,-0.31662714682280013,64.0,Clothing,Female,230.0,Neutral
+1e62615d-7aed-41fe-8487-9bc0a1665f37,Agree painting serious evening oil player threat.,,295,-0.8386329823850474,29.0,Clothing,Female,116.0,Positive
+636a08de-70a0-43a4-8398-abba147f47f3,Across why article news animal soon lead single day truth recent idea fine.,4.258667170755214,451,0.08737484406019669,49.0,Beauty,Male,29.0,Positive
+0d060517-8eda-480e-84c7-a24058fd7939,Financial area improve trade reality contain book.,1.6908432925824788,136,-0.5268034371333445,43.0,Home,Female,271.0,Negative
+323881e0-77f0-4e2c-98b8-630dae077822,Why such apply minute another reason class listen.,,225,0.5622472490064294,21.0,Clothing,Male,335.0,Positive
+d3d5928b-d11f-4f64-8213-e1280f23dd3a,Glass then after finish he act have seek instead sister other medical particular.,4.371242724195584,201,-0.7613195699395705,28.0,Beauty,Male,230.0,Neutral
+ca452972-d9bc-4d4c-803a-64e83e19fbe0,Reach detail serve ago performance suggest measure leg building question.,2.4942286477070206,123,0.5801265142826,52.0,Books,Other,88.0,Negative
+8ec1781e-f805-4238-a722-b885e8521704,Economy moment four month church Democrat war.,2.8288856295751104,420,0.2972684618240431,50.0,Books,Male,,Positive
+87a2ff36-0bad-46cd-920f-7948096d0134,Factor sense performance peace black accept design travel create news bit anything line.,,273,-0.576369317474132,60.0,Electronics,Female,290.0,Negative
+fce9cfdd-a653-437b-bed0-708389b465d7,Commercial boy table student everything onto argue player teacher raise.,3.763382482318651,403,-0.0790906826477984,62.0,Clothing,Female,2.0,Negative
+c8f51c6a-4c70-434f-9ae5-f16cbff881df,Involve stop network action use method its none discussion might green.,2.2993375637676587,395,0.08672700523518584,57.0,Beauty,Other,356.0,Positive
+790476d1-65ec-49dd-bdb5-271f48ca06c5,Day foot on car large book doctor PM sing seek wear fall individual.,2.7224342043745255,149,-0.9261712335432011,54.0,Electronics,Other,232.0,Positive
+6f7b4975-6545-40df-9e3c-cd30f9999b80,Data keep anything area tree office material member board.,3.990347036735094,427,-0.8632544726333957,20.0,Home,Other,1.0,Neutral
+7c9b07e9-dbdc-4389-8aa4-f995ad9539b7,Prevent discuss shake degree commercial song head city level.,2.689388445336903,225,-0.5500813221546554,27.0,Books,Male,172.0,Neutral
+83c4f340-2e70-42ac-9a78-523a3b80676a,Last future ever message exactly agency like concern likely decide cup.,3.6559576043795827,129,-0.05033735280441909,26.0,Home,Other,8.0,Negative
+05c6c3c7-c03c-4154-99d2-331894339cbd,Trouble tough same attack minute that I week listen vote thus.,,190,0.3239064148536619,34.0,Books,Female,374.0,Negative
+38978766-f6e1-42d3-be0d-0f3e5c2bea36,Anything seem any environment fact total.,4.64955406967043,495,-0.052786457615907834,26.0,Clothing,Male,90.0,Positive
+0ac9ebbf-f678-41b4-a59c-703ea03653da,Suddenly agree always property candidate shoulder drive.,4.213433907970085,347,0.20247466084241084,29.0,Home,Other,432.0,Positive
+b486252f-a5dd-40e8-9770-98442da9c3f4,Figure carry low morning fish newspaper wish.,4.662801283651854,423,-0.7922147782365687,60.0,Home,Other,275.0,Neutral
+f98c1fbc-8212-404f-9fea-d328fb57eb91,Occur television then soon political mind between fund side treatment.,,194,-0.4028844858533547,45.0,Books,Male,44.0,Negative
+57b180db-cc72-459e-8654-93ed6b19bee8,Situation above present occur teach along large bank whom determine hospital amount sort.,3.0865631173572576,81,0.8542646649107066,53.0,Home,Female,479.0,Neutral
+79724af7-3bb1-42cd-8440-164fe7736ae4,Worker heavy seem hotel spring whether address student stay compare far win more.,1.3853760026275075,110,0.04059589111451256,,Home,Male,432.0,Negative
+4720c1c8-93fa-4052-896d-828546ad5c5a,Once product program heavy my sea trial unit measure too thing once quality.,1.1011359080371812,80,-0.14309112120576528,19.0,Books,Female,63.0,Positive
+d5e9fa42-c61b-410b-b0d6-d93180b394f4,True once college western attack protect whole before think animal customer.,4.391008246981209,252,0.667882763957063,57.0,Books,Female,397.0,Neutral
+a5e8f41b-2c96-4021-92f7-8ab1ccec73b1,Present beat word central way media citizen.,2.125176794215738,420,0.872013327921267,48.0,Home,Male,266.0,Positive
+99274a24-a652-46c5-9028-85eff9a4db48,Common machine level group fine thus seek five brother pressure tonight activity minute.,3.619556094500303,343,0.9205565179139705,48.0,Electronics,Male,235.0,Negative
+5fa97a93-cd18-49a6-8fd7-818cf4a36c1b,Toward me open finally us ok measure crime.,3.545481243122578,480,0.12099862272916928,36.0,Home,Other,331.0,Positive
+fc7d7dc1-94f7-4c47-a991-313cc0251423,Join must once class final office large remember color.,4.511354390877106,154,0.6076738530651926,60.0,Clothing,Female,432.0,Neutral
+5c225fe7-2bd4-4c10-960b-85aa0e1415c9,Window medical experience stand realize assume another adult American without.,2.7332343005343374,388,0.747931491958107,31.0,Clothing,Other,304.0,Negative
+3a81176c-2512-435b-a282-6ae3ebcac404,Government leave level once mission prepare law idea unit more travel site rate.,,244,-0.24562864874182,19.0,Electronics,Male,88.0,Neutral
+aada2c3e-d531-4c95-a038-afdcac4ade35,Particularly responsibility million risk somebody direction buy between condition research change total kind.,2.5592667843986976,138,0.586855482156118,32.0,Clothing,Male,53.0,Positive
+6951d0f9-8ed6-4479-9aa0-5ed5ed1dae2e,That personal energy always population provide.,,297,-0.16056665545052584,59.0,Home,Male,,Neutral
+22e0c2a8-67af-430b-8549-12d5147d2fb1,Professional attention answer issue ask traditional admit central agree heart director phone old.,4.976000724299857,90,0.13076047725132045,50.0,Books,Male,475.0,Negative
+c88d137d-f356-4467-85da-58aacc94ac30,Future game important house theory officer reflect face far.,1.1419799356953164,404,-0.44449674504039716,21.0,Clothing,Male,394.0,Neutral
+4ce8ce60-3d7b-44da-837e-446853ec1fed,Improve instead central federal especially move right.,2.929867779734824,158,-0.7590343084584139,35.0,Clothing,Female,294.0,Positive
+c97a3839-e9ee-40e4-b194-fd6bfe80afe5,Strong large physical recent black apply kitchen entire back life option.,1.8846888484989641,303,0.8376627449437071,19.0,Beauty,Female,133.0,Neutral
+fa8f88c7-ce09-439b-b330-94565e91f6b8,Sort friend better like off north project.,2.930400390649278,215,0.5841053593003847,20.0,Electronics,Male,476.0,Positive
+02e9e992-b3c5-46e7-a733-91cd1bdc3b26,Sit write trade rock establish TV itself agreement movement policy fine close.,3.794894256545722,386,-0.6742439183972126,30.0,Clothing,Female,106.0,Negative
+282e05cd-4d3e-4b75-86ab-334ad2b7a6fb,No whole time finish raise morning cell miss western computer.,1.1488026030983343,316,-0.9561583852464199,30.0,Home,Other,52.0,Neutral
+b78321b8-0aef-405d-9e5e-ae7e4a559dda,Door degree ground six visit order one.,4.2058384839790035,405,0.002867642929539338,64.0,Clothing,Other,235.0,Negative
+0ff35296-1086-4dd1-977c-44d0d135dec7,Quite court risk upon provide indicate shake I four same strong.,1.6108441952246562,65,0.8204682252110593,23.0,Home,Other,124.0,Neutral
+5c31655f-9047-49c5-82d4-2f40b7e8f635,So audience work low life mouth plan middle parent risk.,2.867980488774388,347,-0.3997200319332481,,Electronics,Male,,Negative
+086a7e93-157f-47ed-a275-cdda4423ba09,Bar blue huge mouth material else example.,,475,-0.484391013511444,47.0,Clothing,Other,283.0,Neutral
+c8efdc53-e70d-4856-a85a-210647ff9421,Remember Mr Republican break blue plant message boy others lawyer trouble.,3.1299404082134976,455,0.43306769931824274,59.0,Electronics,Female,217.0,Positive
+b8bb62e7-052e-429a-88fe-3b5bfd840d58,From development do send word option partner their.,1.1668767561807156,340,-0.4561660339824172,29.0,Books,Male,347.0,Neutral
+a4270fbc-65bf-489b-94d8-8db53f257463,Policy especially until themselves look already owner third.,,135,0.1088522441592914,19.0,Books,Female,140.0,Positive
+def8ab96-e6d3-46d6-aaeb-096c6775dc65,Know before system involve party what source share.,1.6126759283286822,419,0.759856520909753,52.0,Home,Male,,Neutral
+ca58dbd5-4f22-4048-bfcd-a7025bbf6a97,Interview direction debate man protect necessary someone Mr while will impact feeling field.,2.2865898753637666,449,0.869461434261072,45.0,Clothing,Other,134.0,Positive
+f9ffcfdd-1c5f-4a8e-86e2-bcd1c07f6a09,Natural audience trouble ever wall but drive.,1.2842876028010837,405,-0.2698173465884608,21.0,Beauty,Other,236.0,Negative
+502eb5fb-303c-4dbe-b3c2-be3309afbde9,Catch class score reason case company environmental message major collection however.,3.0305842002972003,313,-0.7743606562974459,54.0,Beauty,Female,427.0,Positive
+fc0fb5fe-81f7-4501-bd21-47c2af28ae54,As expert before real garden doctor step phone tough save number end nation.,2.73800734454526,295,0.28851355899696784,,Electronics,Other,211.0,Positive
+af4fb666-a37d-472e-abfa-f4cf11be86d7,Dog Democrat lose cause certainly owner management play worker history specific program.,,333,0.06359653807601862,21.0,Clothing,Female,232.0,Neutral
+dd4de2f4-008b-46a9-b1e9-b15e9cfb0f78,Step walk could professional keep write between bag anyone road.,3.3483247261803695,134,-0.775126243094316,46.0,Home,Other,448.0,Positive
+063ed949-00b2-409a-bda4-ab354e9f480a,Bed yourself environment we nor simply board amount foot his many exist.,,178,-0.21517000603665948,21.0,Books,Male,266.0,Negative
+2829318f-c500-485c-a4b5-9c8dfcb2da8f,Trade buy tough environment why thought room.,4.994309890019648,290,0.5004439508027776,51.0,Beauty,Female,425.0,Positive
+2d8fa106-c607-4ca7-9864-b410a975c1e7,As recent ball into each tax poor.,4.175253597713944,118,-0.765709614983102,58.0,Clothing,Other,295.0,Negative
+d51c324c-8a92-4998-a52f-fe4895d6145c,Old sure total need that may budget truth information serious consumer source.,2.4726621780176696,56,0.792716292876563,61.0,Electronics,Male,49.0,Negative
+9e166976-84eb-46e2-b272-e2d6f7daac37,Real price cut pay then table Congress who be why.,,264,0.44594720431131174,33.0,Electronics,Male,162.0,Positive
+31a3845d-3eeb-462e-bad5-fbb968b65868,Five threat begin mention nor culture make.,2.4609436125813073,255,0.3877997443382555,22.0,Electronics,Female,384.0,Neutral
+7c7be5a1-ef53-4cb4-b40e-8c2fe74d4728,Beautiful follow yes information scientist usually Mrs personal ball under toward.,4.7184387774463605,82,-0.6223556745763095,40.0,Books,Other,311.0,Negative
+e512d57e-b99f-42c6-b0c6-0df2a6ca7215,Travel could skill occur piece no oil.,4.791453840473249,139,0.690316196894863,63.0,Books,Other,,Negative
+27121138-8e04-4b9f-951e-16c6368bd317,Measure reduce or investment another task other buy since firm.,4.9902275353029015,383,0.6059997964328017,49.0,Beauty,Other,372.0,Negative
+1ea9b177-e851-4c5a-aeb7-f334b451fa18,Age article senior evidence hundred tonight such per meeting today house another.,1.9954024990922696,335,0.7292870330473302,57.0,Clothing,Other,254.0,Negative
+790696c8-6f13-4965-ba7d-8e9855360767,Direction threat mother page teach interview event expert possible.,1.520621904273884,65,-0.04948143171759467,41.0,Home,Female,47.0,Negative
+88090b2d-bc89-4727-b040-989358d199c0,Ask hair evening success sure work within.,2.1430623179251285,289,-0.9812887522371727,42.0,Books,Other,8.0,Negative
+e77182f2-2a79-4062-8288-a751b83b3177,Number stock property national development spring actually recently authority Republican ago speech build.,,75,-0.5055022797494584,64.0,Clothing,Male,413.0,Negative
+48f9d1ce-c2b0-41cd-8473-fbd5d7922baf,Again follow speak language those let government claim focus major letter property one.,2.9707440096012703,195,-0.4917877880625221,,Clothing,Female,276.0,Negative
+d4c125dc-62e7-477b-8822-2bbfd8509d3b,Account should role box group pattern ask friend.,,227,-0.4305153287647181,37.0,Beauty,Other,271.0,Positive
+b189891c-15d2-4a90-8ab8-a00d7a211ad6,Particular culture center majority film fact throw step yard.,3.154564191472594,107,-0.5070798068989624,34.0,Books,Other,358.0,Negative
+2cd6dbef-2d7b-476a-9374-2f7bef46e7a9,Teach surface within college receive scene measure back.,1.5873201742004954,154,0.8464524172604184,24.0,Clothing,Female,,Positive
+5b8de383-d56b-4570-a5c8-a04f7ee2e66f,Animal someone business them high blood mention your sea turn hour bag animal.,1.8008747053700045,196,0.7949811930675657,36.0,Clothing,Male,138.0,Negative
+b8621fe1-8f86-40b8-a31e-481c7526140c,Never best challenge effect study five.,1.134851589507333,431,0.8345119330820536,37.0,Home,Female,27.0,Neutral
+d8c052f9-d6de-443c-a793-9c79a860eec4,Safe this rather front happy imagine.,3.91321448436992,350,-0.5908489527512433,60.0,Home,Female,340.0,Neutral
+97ea32ef-b14f-4903-adf5-7f0ba05745b8,Ago where cut response rock white.,1.5442614386393183,138,0.516931613337341,62.0,Electronics,Female,428.0,Positive
+b5f55e53-8ba5-4775-8ab1-d5ba3c59f104,Investment artist us career feel thus go could successful again old bar.,3.3502553278096943,491,0.2953242189103542,64.0,Electronics,Female,438.0,Neutral
+6cdd655e-1091-4307-ae23-9dfdfbcea422,Present energy husband figure born score one reduce with alone.,4.531393945001854,155,0.28999771282536857,49.0,Clothing,Female,175.0,Neutral
+a00e5431-5323-4b5d-b52d-2935c4c24725,Her leg in forward three daughter imagine affect into wish decade.,2.128716795624054,410,-0.5603081956526399,60.0,Clothing,Female,,Negative
+404f86fc-1b96-4dc6-a28f-263ee68b09d4,Example arrive perhaps from benefit light support.,1.1712670576882491,391,0.016121851049833547,43.0,Beauty,Male,458.0,Positive
+6d756315-1271-4a5f-ba43-1a80eb98f2c5,Strong church public make drive four even everyone billion sing figure none avoid.,2.8978310145326582,442,0.4253718890960383,29.0,Home,Other,24.0,Positive
+827f0e10-ac38-4aad-8651-ff852542a551,Dream west capital down enough PM former no maintain easy personal strong require.,2.556967437752218,69,-0.05531257125550271,47.0,Home,Other,288.0,Neutral
+aad4cd49-e392-45c4-8d51-312ce1c074a7,Message class southern source him second then spend.,2.8462455672586615,335,0.7685884304086434,64.0,Beauty,Other,151.0,Negative
+2e76b2e0-94df-49b8-bfb6-9fa58c535511,Bit expert affect organization card indeed ability.,1.1805562422693971,251,-0.4856256630449487,59.0,Clothing,Female,310.0,Negative
+84b47f7a-3ba5-4ba4-9d81-2887160a26d5,Imagine make call force note avoid record wall knowledge simple mention group.,2.4937916692806326,238,-0.22452963253652314,55.0,Electronics,Female,227.0,Negative
+61adb59a-5f65-46a4-8a66-579c90548812,Own reality throw quickly student decade range model adult.,1.21973876760579,323,0.6242206129485401,26.0,Beauty,Other,,Positive
+0f0c3f15-1f9f-4c29-a63c-4750a6cf32e2,Science wish you sister leg serve over least.,4.694323939010669,91,0.7099048916134671,31.0,Books,Female,395.0,Negative
+6604e1f2-454b-4918-8dd0-5393e512f5e0,Art physical hot option life see simply state himself statement cold student that.,2.9470405629241396,117,-0.8647608583969131,54.0,Electronics,Other,13.0,Negative
+fc90fed9-b797-416e-8bd5-d54fd943e232,Last next organization court could serious stand safe.,4.796759302033912,246,-0.8595047479108875,28.0,Clothing,Female,220.0,Neutral
+7fc5f5a4-293d-4a84-8d72-17a5c325613f,Writer source benefit me final market hair design others thousand statement.,1.4463036652823424,219,0.7032145843277076,,Beauty,Female,299.0,Negative
+8ba2dbd5-6e0c-4a6e-8cc6-0cccec92a192,Chair red financial both alone happy require impact sit job four.,2.4819855864541744,355,-0.21130647737814479,35.0,Clothing,Other,239.0,Neutral
+db89887f-9af1-4dc9-84a2-8853e9c6e11a,Someone work test and simple throw responsibility trial career government feel bank.,2.8959631387110787,161,-0.6441704230876488,52.0,Beauty,Male,451.0,Positive
+77d8806f-f8af-4d2c-a110-b0c56a2201c7,Kitchen field leader strategy far among rich establish third station.,4.959842456749181,453,-0.26271687798465315,50.0,Clothing,Male,167.0,Negative
+34429a8f-b788-4988-8602-71254c2f3563,Black matter analysis trouble computer last decide human fine audience four my safe.,1.5183792705608101,116,-0.8567308580888695,,Books,Male,194.0,Neutral
+01c70e0c-9a7c-4ddf-8bca-b59c9e70ec7c,Source very tonight national bill or.,3.955369287634915,456,0.8501724818793119,50.0,Beauty,Female,414.0,Neutral
+be8af75e-36ba-41cc-bfb6-3b4fbdeb9221,Back until leader fund once choice nearly show trade statement agency.,4.797085061415921,80,-0.4950201210776348,,Beauty,Other,476.0,Negative
+14dcae01-6842-49c6-9ead-2c8d5adb2298,Moment expert another around hair six.,3.117197711910737,307,-0.7605643091841296,42.0,Clothing,Other,481.0,Negative
+f721d187-9dec-4f03-895a-4274ace65449,Among wide explain prepare he tonight heavy.,4.776397027910451,321,-0.882541529454137,23.0,Beauty,Other,298.0,Neutral
+a9bc4489-f451-4be4-a11e-eb0bf74f9b3d,Realize government send they night affect all tax show role then.,1.9299674473843424,117,-0.8651694769148683,45.0,Home,Other,196.0,Positive
+6843a42f-9572-4611-bfe0-38ece08fb458,Actually yet particularly act born station.,2.151240396586997,138,0.4890277573162005,62.0,Beauty,Other,73.0,Positive
+b98a5a4c-7299-4c5a-85e0-e3699ac564e3,Might health case may sit each.,,304,0.2109977060351158,52.0,Clothing,Female,45.0,Negative
+b8dda5d7-8dd2-4ff5-8bf0-063016ca5409,Fire scientist could career plant their green coach suddenly east agent create radio.,3.4356200498288625,438,-0.894706969748623,28.0,Home,Female,405.0,Negative
+212c24c3-25be-4e8c-bc89-94156c80943f,Mr hope create everybody strong mind respond plant.,3.291964434950993,349,0.23793097634378224,32.0,Beauty,Other,251.0,Positive
+1fa9e06a-e0e8-474c-95dc-e8b1f95a68b6,Establish control choose bed learn activity.,3.619337006133795,407,0.6746901888399786,,Home,Female,437.0,Neutral
+555e0031-8259-4cd9-8568-6e2b2bb7c412,First national heavy culture key result.,4.501428405588822,154,-0.9500801790885101,50.0,Electronics,Female,421.0,Negative
+fdc53ae0-dcd5-48b3-bcfa-abbee9d23e87,Compare during about house pull receive today suffer.,3.3154559523759595,153,-0.7594546951767711,47.0,Home,Female,188.0,Neutral
+8fc315b5-7aa9-4143-8267-81b2b757ad07,Resource natural tough these whatever condition loss save executive.,1.6792091964692384,481,0.23612927542532747,35.0,Books,Other,293.0,Negative
+421995fd-6f4e-4cb0-9741-a9dc162664a5,Use bill thousand per few same suffer determine clearly card benefit personal plant.,1.1183713702860603,337,-0.627096550212626,61.0,Home,Other,47.0,Neutral
+6c472848-40b0-4758-8a2d-bf08a6c58f12,Order subject pattern bit large box example mother would investment yard program population.,1.2310833839745556,293,-0.8502111210164933,49.0,Books,Male,163.0,Positive
+bb63841b-f759-41e8-b7b8-5db927e94abf,Across debate pressure single financial as.,3.512807956275261,375,0.4657620638589419,23.0,Beauty,Other,20.0,Negative
+c3808115-cb02-468a-ae9f-a901aa9914cc,Month month check research require war.,,291,0.06430192861982187,58.0,Beauty,Other,449.0,Neutral
+fb30a2a7-88a1-4085-9fea-d45539959bb5,Run party president hard international mission through suffer become term film.,2.1975690459829624,472,-0.18965472026000585,,Clothing,Male,99.0,Positive
+f37bf590-c8ba-480d-88d7-ef1ea0a4c02d,Same middle sit lay wide follow game hand strategy wide admit.,,462,-0.36047545276774295,25.0,Clothing,Other,12.0,Positive
+bc7ec267-a1fe-46e0-9329-7302d9e97837,Deep peace week responsibility represent coach.,2.312466242477529,367,0.23598899226595815,24.0,Beauty,Female,116.0,Positive
+23183110-f1ce-4cce-a3c3-259157283374,College may pattern human world without example.,3.6197600163091375,372,-0.2869568681823791,58.0,Electronics,Female,132.0,Neutral
+3a7b5d53-2109-42bc-8ea9-5bb4dc61c3f2,Instead north ready plant very increase chance size middle foreign must seven bank.,4.628171855296803,161,0.00906621542397823,34.0,Clothing,Male,286.0,Neutral
+d623110f-373e-4795-badd-1a9afbf5f878,Human mission ability share choice police also research in.,1.7840409509349264,113,-0.6283078797889374,39.0,Books,Female,193.0,Negative
+fa9300be-5b2c-48a5-8d0b-275c473867be,Color each read stop everything firm every middle head car specific.,4.347508168415024,166,0.7901952105752013,50.0,Books,Male,455.0,Neutral
+11f4e943-4eb5-4013-96d6-18cae5bd7a3d,Main pick measure ever how prevent executive perhaps low.,1.036308658868021,107,-0.7949668667666865,25.0,Home,Female,406.0,Neutral
+95789b89-df00-4983-975b-ba7ad890d456,By help listen finish heart firm population knowledge democratic since sister.,4.1311822799078275,403,-0.894430609569685,56.0,Beauty,Female,417.0,Negative
+fa01872e-ee0b-4048-81c2-295bbc416b28,Among six community no somebody ready Mr power teacher.,1.9986697859472682,338,-0.08951128682607079,23.0,Electronics,Female,491.0,Neutral
+8444ce12-43cb-4dde-bf12-04ca23acfd24,Prevent subject yet school light them maybe town able treatment accept.,1.035084678366196,283,0.7518625925852878,20.0,Clothing,Other,83.0,Negative
+a7968dd2-fc4e-4448-888b-2f1fc175b302,Article play how southern position miss local air nature.,1.0470042953379828,272,0.4840754414144439,40.0,Home,Other,351.0,Negative
+a137c714-ec3b-4f45-9f51-c28bf599ff8b,Type growth environmental cup dinner low while cell paper different upon.,2.798618736967546,213,-0.8873998019443323,54.0,Electronics,Female,332.0,Negative
+2253a9ab-d683-49ea-a296-49ebfef5db6b,Develop expert good cell determine close various how glass then training school young.,1.4433992293977616,402,0.8036851233184625,18.0,Electronics,Female,391.0,Neutral
+6c7f9bde-6e95-4f98-93a1-4783d8fa464a,Prove accept quite card girl national allow.,3.0057288151436667,194,-0.5778207591091624,46.0,Clothing,Other,344.0,Negative
+af59aaa3-2333-4c8a-95bb-09c20dfeedfb,Home operation save strategy white memory up.,4.2565107038794,411,0.022613176290482873,32.0,Electronics,Female,334.0,Neutral
+16326e54-b1cf-47a1-ac62-6c5bca6ccee9,Save ability until foreign lead tend speak.,3.5043631558123924,336,-0.42397301749837446,45.0,Books,Other,458.0,Positive
+58da9b11-46d5-4465-bd83-00db003ca441,Shoulder play language then computer answer her teacher three.,4.1166424405253395,355,-0.6218697271723888,54.0,Clothing,Male,483.0,Negative
+e6a498b1-a16b-491b-b6b8-782ecd027c20,Structure player garden item consider brother wait appear.,3.1108849273174624,438,0.25113284171160855,24.0,Books,Female,211.0,Positive
+fdb148b2-b643-4cc0-8630-73a80acc1d4f,Parent to food upon position forward a tough.,3.6342187475963863,293,0.33132367136485685,60.0,Clothing,Female,98.0,Negative
+2a207439-ba6b-47b3-b4d5-7596e8c23b4d,System college increase above far stay mouth.,3.489338460647682,393,0.07877951278579354,62.0,Books,Female,,Neutral
+2054720a-9de3-442b-a5e9-63c8350123bb,International play particularly program wish say system without serve hotel subject pressure.,1.6778829856641093,412,-0.7139041478982417,28.0,Clothing,Female,148.0,Negative
+1bd3353f-a175-4c82-9c71-a025a41eb291,Pass likely near none financial threat people road allow loss appear politics situation.,2.5747777221663095,224,0.07182697562530871,58.0,Beauty,Male,444.0,Neutral
+1c404709-fd86-48fb-8ff5-a570eed0be73,Assume finally enjoy during prevent somebody audience her task ground your crime.,,164,0.07323155528915537,60.0,Books,Female,223.0,Negative
+796180bc-e524-4581-8281-35f6f72d33b4,Nice then address manager cultural meet pick political fund develop form.,3.8120699886236507,175,-0.1406570549963475,27.0,Books,Female,123.0,Neutral
+cdc5f6d3-9389-4ed8-8ef0-bc0765a508b4,Ground high opportunity system account lose.,1.790307580907872,403,0.9923710881976435,22.0,Beauty,Other,125.0,Negative
+c140de1d-571c-4f02-b5c9-9366ee3d392e,Management specific himself end base crime trip organization between imagine.,3.2424417119593847,73,0.75012690391732,26.0,Home,Male,347.0,Positive
+037311c4-5040-4d3b-9dd0-cdad205e9b3e,Memory public provide physical try over letter sometimes.,1.378688088327623,200,0.6493086880858083,47.0,Electronics,Female,400.0,Neutral
+784bd0d1-ecd5-46a2-b4d3-0c41f57b39a7,Agree final small firm nature watch people point lay sell.,4.033623421250159,243,-0.223741503430555,,Clothing,Male,370.0,Negative
+886a2028-8f31-4b23-8ee4-c65cb55dd4d7,Hope commercial edge behind manage field write alone.,3.896991516295747,448,0.3197990764591785,31.0,Electronics,Female,358.0,Negative
+48263dcc-9a59-4aa4-b8ef-7733f3f60421,Pay blue baby indicate than field through four seek be five explain defense born.,4.082987801804277,216,0.821827361337724,38.0,Electronics,Male,233.0,Neutral
+2b64679a-5a3e-4d71-8073-1911d820e579,I dream market service rise fight.,1.5028946621066308,74,0.4365870908376699,,Beauty,Other,463.0,Negative
+91a34ce8-6f33-40c5-ad0a-e6e322447ddf,Shake turn glass friend few goal color both have ago director mention southern.,2.2673439468204215,94,-0.23994413373633017,,Books,Male,11.0,Neutral
+83d22cd1-62e9-43f4-953e-5bd829d3234c,Local goal leader specific would at account their else.,2.2504168143431653,358,-0.03529084274340488,38.0,Beauty,Male,432.0,Positive
+dd90e362-0441-4df6-bd96-af41e9046039,Yard yard it growth public brother news.,1.6736170166875657,168,0.9371281931683808,64.0,Beauty,Female,197.0,Negative
+bad607a7-a102-40b1-84c8-f2f41c6978e7,Mind start cell clearly however TV write.,1.1655650401864186,320,-0.8524631228158339,61.0,Beauty,Female,179.0,Positive
+d7ad5246-c5af-47de-a54b-bd4a19bf15d6,Bad however friend push open none drug up whom recognize discover.,3.7299113278806413,221,-0.5888581883297146,45.0,Electronics,Male,417.0,Neutral
+769f6e5a-ba00-4580-a202-4d8bb3fdb651,Each career sign rise Mrs source discussion four.,,407,0.7999609667194336,46.0,Clothing,Other,90.0,Positive
+5213d11d-a9f9-48f0-8d50-44d5e8e373d4,Important fill there product street many.,2.538783860734867,297,-0.8178421818707884,30.0,Electronics,Female,136.0,Neutral
+bc92529b-0918-46f2-9305-609fe842af2d,True character true tree month culture popular role but source TV per professor.,2.4515087075468287,90,0.21174648232852977,37.0,Beauty,Male,315.0,Neutral
+c728f9ce-378e-4850-81ea-1901a4276cd7,White morning statement hour art least discover win this move history tough.,,287,0.22712657946103776,35.0,Electronics,Other,195.0,Positive
+eb8f74d2-106d-493f-9c25-ac721803fd6a,Name late southern president law way fund central why measure design.,1.4598202537158778,288,-0.7347884981515866,38.0,Beauty,Female,228.0,Neutral
+bbd39c57-6154-4b9f-859c-1a10bd59a91f,Hour out leave store mouth response us firm social there teach analysis produce.,2.2047508395197104,456,-0.5806363012789617,39.0,Electronics,Male,446.0,Neutral
+38f4d82d-ce49-481a-9689-c54187583014,Occur business sell chance religious vote front end environment.,3.298668604568927,269,-0.6183103549462468,,Electronics,Male,10.0,Positive
+3ff21a4b-d39e-42c6-8ebe-4382dc60e2a0,Law speech report forward behind mouth too former debate than court.,1.066761998822662,120,0.6546757591004266,23.0,Beauty,Other,67.0,Negative
+3a7fe12c-0252-4f11-b59f-94cbf5f6890b,Industry office Mr pattern we really new finally bag prepare.,1.6170855974051288,405,0.3273783264231618,28.0,Beauty,Female,467.0,Positive
+77e771e5-ee92-432f-b7b3-58da4e3ddfc5,My low film why blood although thus side.,2.869367746457257,424,0.17840543917407792,38.0,Electronics,Other,398.0,Negative
+227530fc-3b35-4812-b935-ec6a3cd71389,Thousand wear believe discuss popular all wall natural what.,1.7667393977619787,146,0.9784911785658843,,Beauty,Other,335.0,Neutral
+ebccf465-8033-4bef-9644-e9d95cdf8c79,Lose what current guess agent authority opportunity pretty determine national at quite door.,,172,0.4184443406400893,54.0,Home,Female,416.0,Positive
+2d923398-4402-4acb-b093-259460a01809,Compare pressure soldier attention never reach officer themselves series student arrive seat since.,2.4044461231133365,260,0.8884632136294595,37.0,Home,Other,154.0,Negative
+9b21c32a-9c10-44c9-973d-2d1510b7eea4,Money medical stand else young wonder establish.,2.5018914881030163,294,-0.11162225191566799,38.0,Beauty,Other,290.0,Neutral
+3b085de9-b225-4366-9921-7c267e792406,Thing suggest when other possible hand pick film agency or.,2.019289093395964,63,0.6209699324722042,32.0,Clothing,Female,218.0,Neutral
+9b5ba449-ccd3-4e87-b0dc-d68fda78db2a,Start water before cultural your money home of.,1.5311608696737906,397,-0.4387815828684516,61.0,Books,Female,299.0,Positive
+ed6acf71-cb59-429c-adca-b940c3227a7e,Must food help author recognize necessary responsibility.,3.0798742354745605,126,-0.43850809564430904,26.0,Home,Female,417.0,Neutral
+df0e8cf1-e1d3-4a33-b7a4-68c1009a510a,We defense fight child name writer force parent.,,208,0.6465501683704487,51.0,Electronics,Other,256.0,Positive
+b4b08952-f075-4c31-abfe-0d5203d263cf,Pay kind source do room book rule.,2.353997321299378,308,0.7287359131914781,58.0,Home,Female,374.0,Neutral
+85c41eb8-953a-4041-8ef0-bb41e8273fbd,Inside art take not imagine stay could industry try treat.,,259,-0.23066782888889903,55.0,Clothing,Male,125.0,Negative
+f6b3175a-7382-4729-bce5-497d7312ac88,Short international five management left positive tonight civil no language.,,417,-0.7370761712179488,22.0,Beauty,Male,,Negative
+2be33a8f-c1df-4971-a30d-cb3302d4886e,Baby recognize central stay improve memory other smile.,4.912067178131693,64,-0.33243784675628185,,Electronics,Female,339.0,Positive
+e601779e-66ac-400f-8298-8637e5f7f363,Miss long likely sister life budget doctor over talk natural yeah be number.,3.134447545227102,294,-0.6312934718123824,35.0,Electronics,Female,287.0,Neutral
+29cbaadd-fb21-4ff0-8ce2-e9f30939e2f8,Away require indicate popular event these music herself government at media.,,289,0.2341720811393997,62.0,Electronics,Male,77.0,Negative
+b0f5af69-7612-4e98-8d17-392337b46ea1,Miss movie purpose federal prepare keep institution right close behavior.,4.908708243741826,381,-0.46722247912974346,40.0,Home,Male,,Positive
+6f0d0b64-850d-491f-99db-9d08fd2a8d98,Prepare rock great rest apply theory.,4.493687955757025,272,0.44266271748578956,51.0,Clothing,Other,351.0,Positive
+2bcef4c3-4a22-48f3-b681-b1f2a220a988,Site position point instead either value.,4.162801095922367,363,-0.9187833684587574,44.0,Beauty,Female,87.0,Positive
+0a0b213f-c424-4cb8-b5d3-b05f5d1e4ad4,Treatment store ready cut natural chair director kitchen.,4.380155411341688,408,-0.11246623741093686,18.0,Electronics,Female,52.0,Positive
+54cc3fe0-7467-4300-beb9-88e2ce6273b1,Way body garden opportunity stuff available government entire out.,3.455080611218657,109,-0.8195157963654305,28.0,Electronics,Female,292.0,Neutral
+9b49088a-72a2-4029-aaf2-71d39cfb50fc,Necessary field goal media together serious.,4.531661831093087,155,0.5533929470478456,42.0,Beauty,Female,387.0,Neutral
+2bcfb979-f77e-40ce-b912-a0a9f28b9fd9,Peace capital assume yard keep they fast.,4.499412448205824,395,-0.2636784313851883,30.0,Clothing,Female,52.0,Positive
+4266fd85-7048-4ff9-aeac-cea077f64eaf,Attention remain bag small easy type would gas lay effect color.,3.376386792276294,69,0.6166592175743015,58.0,Home,Female,420.0,Positive
+11a7db9a-149f-427e-aa5f-9d8a9fb2075c,Wait difference show memory front crime fear throw.,2.3892147032682987,315,0.38676186668198453,30.0,Beauty,Male,347.0,Negative
+e8e44a88-ee91-4107-b43f-884341d3b7f1,Follow sister want answer available help discover agency class again.,,409,0.7289774765720765,,Beauty,Other,450.0,Negative
+70933d39-6b36-49b5-a8ca-a7c44f7186b1,Read nothing view challenge indeed risk knowledge.,1.0130412081541742,417,0.8577410636461515,38.0,Electronics,Other,59.0,Negative
+b86ec379-3441-4313-a50b-cba5a5a63c77,Forget tax administration side indicate career red drive.,,401,-0.8191053118313636,30.0,Books,Female,245.0,Positive
+ee660542-0be0-43dc-8c79-edbcd1359672,Box might time list challenge remain scene interesting close.,,374,-0.8372508321025833,56.0,Electronics,Male,396.0,Positive
+40094544-fa89-476a-b540-90bd9dda2c28,Firm rate item walk make state ball role direction couple.,3.0912913059678675,103,0.37027016897999143,36.0,Home,Male,252.0,Positive
+d079bc50-7cd9-46d0-813f-6e75781da393,Impact partner light respond summer might expert time.,4.344618141711999,348,-0.7428022663169997,46.0,Home,Other,79.0,Neutral
+5406072f-9ac2-4c88-a015-d19a13269a45,Avoid why thus political plant language.,1.6845969936242033,384,0.5703226616569466,34.0,Clothing,Female,494.0,Negative
+53285d8c-fcfd-42ca-924a-e05ea6029303,Walk our service member they exactly industry lay.,4.621950509761926,488,0.6746799351114812,,Beauty,Female,362.0,Negative
+99c4d479-c2ef-46b2-a029-01bf3abe7563,Standard very husband green program crime defense media.,1.6786202392074552,386,0.771438207296371,32.0,Beauty,Male,475.0,Negative
+a8ad8526-8d9d-41a4-9000-85af2a2bb8f9,Arrive this free popular free sea.,1.4405542921422825,357,-0.2590439337502237,54.0,Beauty,Female,451.0,Positive
+ae9c65d3-984b-4324-a05c-ea1d27281be0,Interesting space somebody anyone news begin chance its which probably any radio.,,312,0.986126107857271,63.0,Home,Male,323.0,Negative
+ae439666-b16b-4893-b2a5-91eac45cf693,Goal too church blood research plan throw can front city cost.,,306,0.23934921499690498,41.0,Home,Male,228.0,Negative
+fe4088bf-4a3c-4e97-bc81-1d954243be2c,Pass benefit yes off person cost issue end environmental fine according.,,262,0.5091812487669416,58.0,Beauty,Female,288.0,Positive
+4f9eca66-bfa6-4396-81bb-53ae1a0fd85a,Structure throw about draw which likely leg paper.,2.8131005074490494,184,0.5329134924840189,45.0,Books,Other,381.0,Positive
+55c5cd23-ae3d-4603-95c5-24d181fb36e7,Example enter scientist there world material reveal model during fight hospital ready send.,2.7049296133676144,125,0.05182804175627953,41.0,Electronics,Other,311.0,Neutral
+d793af4a-d2a7-4c09-a30b-c88113a951a6,Population part throw type research image administration test economic.,,57,0.4227833683143154,30.0,Books,Male,161.0,Positive
+9226c990-a7ba-4cb9-87b7-11f1a841c341,Leave ground civil effort job physical enjoy.,1.1628460505416762,497,0.4568595413272325,23.0,Clothing,Female,282.0,Positive
+bf8fc0b5-9c98-4d9f-ba94-da6ff3103c8b,Suggest forward leg admit shake address but.,2.6720726425851367,342,0.5466390657090345,27.0,Beauty,Male,489.0,Positive
+ede7fbf7-aba7-4f0a-962d-78d6a5367afa,Much song station worry difficult economic today family stock.,,155,-0.08235992854028829,33.0,Books,Male,398.0,Positive
+26f197eb-8924-44cd-bc48-f1c29d594994,Five policy but understand already modern.,1.9288799291998489,222,0.8266279738913396,47.0,Electronics,Male,119.0,Positive
+2345b2bc-e21f-4b96-a04a-f6d65a9d21b8,Girl film gas but person condition politics no.,4.41476686719262,228,-0.21644076854680283,54.0,Clothing,Female,425.0,Neutral
+ae91810c-35e8-4a11-bd72-de12656ae4cc,Until sea rise sport source item.,2.0354082235476083,364,0.8365310855089227,32.0,Beauty,Female,165.0,Neutral
+1a099be7-7160-4b50-88c7-8a736beea5bc,Somebody provide too fund western personal once reality cause sing computer news.,4.689346988947248,180,-0.21559961023685736,,Clothing,Female,80.0,Negative
+f52bd091-eafb-4b07-8504-28c536cb65c1,Cup performance federal whose rest sister wall without protect include herself provide account.,2.7665305585486717,370,-0.1387040488044753,28.0,Clothing,Other,223.0,Neutral
+ca0bd3e5-4e4e-4146-9bbe-596673e2b1cb,Certainly include car direction past indicate remember hope modern agency think leg.,3.339823192217924,473,0.5008293065991127,54.0,Books,Male,58.0,Positive
+944f0f6f-9124-4181-9640-3592aa0ca6bf,Language within thousand civil kitchen build notice everybody.,1.9067887189034969,53,0.6886131389557024,61.0,Clothing,Other,357.0,Positive
+bc7198c4-d986-426f-b812-6e28d0b3c49a,Pattern ever discussion rise accept continue.,1.0755392643043868,299,0.3144251807291134,27.0,Electronics,Other,394.0,Neutral
+38df4d48-183f-437c-a557-56119710887a,More fish dinner son marriage lawyer behind college teacher.,2.7925712646300727,137,0.13612592500483633,40.0,Electronics,Other,217.0,Positive
+a4e72ad3-9ca7-4a82-bbed-c86718e12352,Just to son Republican spend such tonight thing like training peace economy road.,3.537028727238933,349,-0.19784716000985925,31.0,Electronics,Male,495.0,Negative
+b9330e51-58bb-42d7-acc1-e37f2a4b8677,White computer design onto himself line how simply assume.,1.771691194867362,304,-0.12672318785998526,27.0,Home,Male,491.0,Negative
+cce1dc91-b328-4739-a472-aa064a768550,Rate soldier only particularly challenge clearly mission model wide for already decision.,4.668049326963541,343,0.2095372661231545,53.0,Clothing,Other,353.0,Neutral
+269df1c5-6c5a-476a-bfbe-f509716b33ee,Well film north natural environment push.,1.7535802381040977,415,-0.43881393934532165,25.0,Clothing,Other,126.0,Neutral
+b84e928d-6c0b-48c3-a535-fc92679de90f,Door third practice either wrong much.,4.000592228104054,138,-0.06563610074379578,43.0,Home,Male,351.0,Negative
+912df51e-05a6-4b79-affb-66a2c853312a,Over contain public her effect whose firm similar partner in compare.,3.323061337292933,337,-0.5400677605521702,19.0,Home,Other,384.0,Neutral
+cf926d81-5b17-4054-9cf4-f60ee8feafbd,Necessary shoulder moment business much great audience.,1.2351802604339608,349,-0.5320610220853585,49.0,Home,Female,184.0,Negative
+0678a202-f2a2-4b64-8266-d7f9358887e5,Girl coach gas under dog third thing own old poor easy today.,,54,-0.3236280374770746,56.0,Electronics,Male,26.0,Neutral
+b421a392-0b78-4abd-a784-4cd3ce3523ab,Every lawyer which reach we Congress enough summer receive.,1.5300685669890202,285,0.8826553841656579,40.0,Beauty,Male,,Negative
+9a342a46-4fc9-49c4-b6fa-752a7e21ba3a,Relate suggest final back treatment protect.,2.427168565782635,286,0.4037223400832124,48.0,Home,Female,202.0,Negative
+19fe9404-b23e-4eda-9ac7-6598880609ef,Herself international child range them medical and reveal someone.,3.0539871367829656,449,-0.5867694591302623,56.0,Clothing,Male,311.0,Neutral
+2d79407d-430a-4c73-9d0d-351e108ed3de,Reach relationship price well front help military method war federal rich.,2.3681105575368466,288,-0.42486369870859564,45.0,Clothing,Female,240.0,Negative
+bb7a1041-befc-4ad9-b840-9f4a058d5a92,Remember first fast ago today feeling a these Democrat.,2.032876423461704,429,0.7002699720795282,41.0,Beauty,Male,123.0,Negative
+37519d13-7751-4bb1-acb4-fc28f95becb6,World middle me society who under money decade see nice.,2.8084034725020723,138,0.8460539498162052,,Clothing,Male,134.0,Positive
+0d34391c-bb63-4eb1-8fd1-e6ef3afe0e2b,Too miss actually no then lead party.,3.4671092322169783,154,0.5524962820992068,20.0,Electronics,Male,8.0,Positive
+1bde5fa5-9bb4-44dc-bcfd-3789b85b63cf,Education at situation huge black hold firm western arrive approach add.,4.485877297634689,333,0.7202517897045704,43.0,Beauty,Female,239.0,Negative
+b0893356-51e2-4ff8-9ebc-964e1184f677,Maintain right news heavy half father.,3.3102886865720706,421,0.7886738557864341,58.0,Books,Other,446.0,Positive
+59eaae58-544a-4a5a-8e2a-21379c11b565,Fight worry boy not executive idea their it glass animal day music.,,305,-0.5648022885291901,31.0,Beauty,Other,333.0,Positive
+c39ff97a-6ca6-49da-a1be-62d11bce0978,Wife fill site carry star my natural purpose area.,4.7369750917341555,323,-0.032179469399064686,21.0,Home,Other,22.0,Negative
+21bc1ec1-7335-4ed2-b6e3-515cb0ae0277,Movie face change seem writer drive spring effect write.,1.7075363348451766,115,0.32010029811881435,36.0,Electronics,Female,,Neutral
+f21fd93b-f5ff-4fde-b5c2-0ec9b2641a52,Avoid ready wear send reach who.,2.00657422980794,113,0.889109534342174,61.0,Electronics,Male,8.0,Neutral
+09b87cf8-28ca-4df8-a80d-df13fb970a15,Allow top rate account key citizen people return morning.,1.4349940623872497,322,0.16842931657241267,34.0,Home,Female,83.0,Negative
+cc44950b-16a6-4553-93be-e5755db9e9ce,Answer remain country somebody because herself treat feel team and.,3.459236624937129,451,0.8261359501120595,26.0,Beauty,Male,120.0,Neutral
+bd0b3643-0637-476e-8d54-ac6388f6311d,Sure seven lead report but apply this until page visit dinner.,1.6085817458566103,276,-0.41652164273943604,54.0,Clothing,Other,132.0,Neutral
+3617640d-5b3f-4e21-bed0-37b5998a821d,Fight sound window top though artist recent according good light mind almost.,1.455078960162162,103,0.46900927651578517,,Clothing,Female,457.0,Negative
+05032780-2d0f-42cb-8e3b-b8ccf221e858,Our guess this add learn view role everyone cost well.,4.152886171932414,469,-0.2687365781860127,47.0,Beauty,Female,111.0,Positive
+d7582a55-7fb6-4b99-8c57-b355c36dd971,Member military machine cut nation medical away whole his over.,3.8510576319391636,327,0.4565698258093125,45.0,Books,Male,347.0,Negative
+6a3e9936-37c6-4cc9-a82a-be40bf9e99ad,Line know your recognize power affect both range bank car professional.,,435,-0.470733425266896,,Books,Female,414.0,Negative
+2a449ebf-1b73-4fa8-a2db-a7fe5ecebeaf,Drive sign member account rise enter him.,3.2625172334604873,412,-0.3151071711907576,43.0,Beauty,Other,8.0,Neutral
+c3d13fdb-0983-4c2f-8a6d-e3e1f50cf07a,Discussion now include social lawyer we heart trouble wish political whole small within.,,488,0.23317429631926534,19.0,Beauty,Male,8.0,Positive
+f4e19904-2e80-4e0a-b08a-80ddf9b9ebbc,Behind green test could stage college middle business someone.,3.945767426771976,364,0.37879983296405406,37.0,Beauty,Male,72.0,Positive
+7bfb1e4b-e273-4f15-b315-3469c43fe092,Simple never me street right medical same enter positive network.,,350,-0.6393021534089476,,Beauty,Female,237.0,Negative
+0abc2550-9221-45a2-805f-6ccda6cbbcd2,Near step next weight place action look exist any scene sense.,2.9122604078458942,113,-0.6521190663920977,53.0,Clothing,Other,236.0,Positive
+cd17c183-91f8-4ad3-9e85-9a0effbe7de4,So bar face style fast direction me smile together front service share high.,1.7714545620142097,215,0.8365061956180955,35.0,Books,Other,317.0,Neutral
+8de09a0c-311d-44f0-9286-91e28731930c,Bit practice push idea not image.,,81,-0.3872082767617935,60.0,Home,Male,111.0,Positive
+1662bf29-c75b-4e46-b664-c46d9bb3582e,Second development speech type get church once environment between.,4.461326986764524,320,0.26222357309645594,20.0,Books,Male,151.0,Negative
+1b201ddf-d072-4879-ae33-86dccbc00d49,Town trade score assume impact TV direction part win current mission individual stage.,2.6667722707870953,323,-0.9308431924018361,,Electronics,Female,,Neutral
+4dbd6120-66b2-4a7a-89e8-adc52de57072,Pass late foot he or family modern performance world several.,1.8358087342437344,176,0.9421627833474837,26.0,Electronics,Female,208.0,Neutral
+f8ea5077-a5f9-4934-957d-422f3aaf9779,Likely thank as specific firm return.,1.5589169614305076,257,0.799980097208101,34.0,Electronics,Other,113.0,Neutral
+e6c37500-f776-4925-b95a-ae6ab7494e91,Type relate fine leader fire ask.,1.495767662006604,213,-0.17306724134944296,60.0,Electronics,Female,444.0,Negative
+48e6743c-ef38-4d7e-a9ef-9c07b5158114,Information hair truth rest play speech same under.,2.3111152823626826,57,-0.9106707528033136,32.0,Clothing,Other,131.0,Neutral
+cc9b92db-d9ab-4e72-af10-6a7c121af94d,Start turn pay example medical product financial call foot report television door.,4.169104978221246,173,0.640504762577065,31.0,Clothing,Other,,Negative
+4dc84335-9c5c-4fe8-8396-b7625f0fab9b,Wrong we rock type any argue size blood think other opportunity commercial.,4.666452064960739,452,-0.1939240402235589,42.0,Clothing,Female,117.0,Negative
+274c3f27-a5cc-493a-aef9-ca59c44f09e9,But notice lawyer power large democratic body especially degree first.,,319,-0.7213309655663198,56.0,Books,Male,,Negative
+d73f3669-3c68-4253-897f-cac3bbe93b61,Expect policy page well figure feeling industry hard mean.,,99,-0.48216892814918566,57.0,Home,Other,354.0,Neutral
+88a9d898-c69b-424c-9d86-bd4e658139da,Into these teach later standard like large huge develop peace.,3.538691565349452,394,-0.37653029739982236,63.0,Electronics,Other,373.0,Neutral
+999f1530-efce-4333-b180-2e3f0dfe4476,Down number shake size brother part follow company center however.,1.5429966955544292,345,-0.21177259225629141,53.0,Beauty,Other,196.0,Neutral
+5957c9c3-6efb-48a7-b369-110e38f93e2b,Model lead ready individual lawyer see interview drop style like significant skin.,4.024212975581191,51,0.7953834710659025,28.0,Beauty,Female,288.0,Negative
+0aa217f8-e81a-4ce8-9877-5e993489f094,Position speak stock also on weight forward little lead yeah nation assume.,3.669752603085029,264,0.6518895632941049,41.0,Home,Female,139.0,Positive
+036fee3d-e8e9-4613-9d10-ff64df716943,Determine hair key brother article marriage top data.,2.8641921894456948,98,0.15976977613623733,,Clothing,Male,,Positive
+8d75b3ec-75da-4157-aacb-d7e237402eb4,Throw off me house state tough give idea couple.,4.022243524288747,65,-0.5269508271687193,36.0,Electronics,Female,172.0,Positive
+b0518f97-31f0-4763-84b8-b4881be2000b,Order economy street institution action sound concern fire rather hundred growth.,3.8307358414864416,325,0.597973286576077,51.0,Beauty,Female,154.0,Neutral
+6795403f-d272-4a86-8665-232a11e14fbc,Campaign point mission cut here hospital short technology Republican.,4.59795846937447,209,0.32744431555875697,34.0,Home,Male,374.0,Negative
+1f86f24b-9f73-4cd9-a7b7-a9c5427dff43,Low important color hotel central mention daughter.,,197,0.6100191720346235,24.0,Electronics,Other,104.0,Negative
+320ef2ed-64a0-4860-8f6b-4d630dc3c474,Wrong painting most item whatever radio book evening.,4.254606827421673,84,-0.4148664757100373,19.0,Clothing,Female,391.0,Positive
+aaed57e7-7ec6-4585-89eb-88ce99d91512,Writer page weight seven everything floor charge.,3.4754995138424936,189,-0.038659385757560116,27.0,Home,Female,378.0,Negative
+f5704aca-60ac-4ef5-afec-0d179a59a170,Discuss decide best feel policy discover management.,3.841452613960696,402,-0.6457975260879425,46.0,Electronics,Female,59.0,Positive
+750afa06-f32a-4a9a-a0f6-e73365e4ea7f,Ability job spring citizen man common.,1.5901379730621148,316,-0.02942461432481669,18.0,Electronics,Other,9.0,Positive
+3c8838a4-88d9-44de-8bca-6e1d6a72078d,Machine work get later animal front case.,2.3598479990560426,457,0.9727504334835442,36.0,Electronics,Other,277.0,Positive
+a90b46d9-5faf-4d65-9087-fa03bd64d75f,Study baby hit education ten knowledge federal natural former bad institution.,1.911754599647379,162,0.11549310123524226,36.0,Electronics,Male,148.0,Positive
+29eb1104-5b14-441b-ad72-55af2995de2e,Also many economic them around accept upon wish everybody bad.,1.4782995351600872,487,-0.5811304383125389,46.0,Electronics,Male,469.0,Positive
+332bcd01-9abd-435a-b6c6-ce2793d9c290,Look hit fund then speech ask Mrs here decade.,3.076825218051012,488,-0.5804814389244386,31.0,Beauty,Other,388.0,Positive
+fe8a9d6b-8b36-4e77-8d5d-49b86a6f2301,Work mind local time group how.,1.5953578820970047,134,-0.8993928207132456,49.0,Electronics,Male,107.0,Negative
+0208ad3d-f862-43fe-afc1-1985bd836505,Same he cut successful billion watch organization.,1.8277253210539874,85,-0.2128760144235653,19.0,Home,Male,194.0,Neutral
+85bfc460-4960-4f00-acc0-9702012e60a4,Listen organization know Mrs party prepare stop race of.,2.922997382655869,359,-0.44963792220705523,58.0,Clothing,Male,477.0,Positive
+4615d98e-d5ac-40ee-a2e8-99cf8fafd8ef,Late soldier according it manager same.,3.3002326071093733,186,-0.36815974202453194,,Books,Other,63.0,Negative
+ada57bd2-d7cf-4393-a113-6593cb5331df,Federal exist later use effort one bill poor something hair everybody produce far.,,57,0.34865374737962873,40.0,Beauty,Other,70.0,Positive
+e509c598-5cad-4007-a5d1-9644386bdc2f,Follow hot small shake certainly area everything nothing staff recently picture.,1.5259290259360498,357,0.2465986737844903,23.0,Beauty,Female,281.0,Positive
+db4ad94c-79a6-4742-9a4c-c5b432d0a7a7,Pretty around network point use song window fund animal nothing door return.,4.04170788152164,165,0.8854528729373292,,Books,Male,445.0,Positive
+0a8e2875-1fd3-43f9-859a-e824129a4e22,Discuss second field choose difficult oil hold.,,145,-0.24327499862899482,,Beauty,Male,191.0,Neutral
+96c9e2cd-1464-4632-a63b-6047c8794274,Represent at no week thus reality already particular energy recent child trouble.,1.9515327079141964,205,0.676794293133,19.0,Home,Male,272.0,Neutral
+2e2cb621-a1e0-4f76-aa77-4918c043ac2c,One test practice activity manage thousand nearly.,3.9209203848580123,297,0.7927993502257649,37.0,Home,Female,60.0,Neutral
+73676dc4-18f6-4a06-9274-ecbbd6fa2934,Success thank material politics city floor laugh lay daughter.,1.8942031823076242,451,-0.3933767981414018,58.0,Beauty,Male,364.0,Negative
+b951de8c-d910-44ca-98aa-2e09c0d20e83,Force art car yard body course practice born expert level option.,3.5030734510536146,174,-0.3659076726668631,55.0,Electronics,Other,143.0,Negative
+1db14b40-3455-44db-80f4-e35592db6d6a,Too within live under green skill generation ok lot home attack.,3.8080189520597756,377,0.8832818536836937,42.0,Electronics,Other,198.0,Neutral
+572a916f-e09e-4ba0-a8f8-fe25310648ab,Another goal specific why bring left.,2.3857581427425774,256,-0.21939459495999958,38.0,Clothing,Female,156.0,Negative
+a0aab956-bcca-4d10-9b30-9c337b00edad,Provide guy among far affect family really oil need reason.,2.060631059349166,417,0.8821326633637017,33.0,Books,Female,268.0,Negative
+b2636596-133d-4a55-bafd-7dffa6c32a1b,But floor stuff reach amount law phone majority nearly.,3.338733954269982,213,-0.4118091446496239,44.0,Books,Male,214.0,Neutral
+2dc0ab24-ad01-4387-a3ca-86a5621d7906,Better center education more somebody method language become available suddenly rise where skin.,1.1509907650905964,234,0.7444773892422067,56.0,Books,Other,305.0,Negative
+a82e1160-efbe-4073-b89b-73b542b395a6,Student quality little difficult must floor buy government believe.,4.91706143362999,309,-0.11972944583901102,58.0,Electronics,Male,350.0,Negative
+f8345c18-2d9d-4e0a-aa77-7e981c502ffe,Turn ability structure star face rule role these weight risk.,1.2193686500146903,304,0.16858737328289375,47.0,Clothing,Male,388.0,Neutral
+02e86e95-3b33-4308-a59f-e38d43b42fa3,May range evidence clear thus million.,4.719296584537931,473,-0.020216362414802402,25.0,Clothing,Female,447.0,Negative
+0d923760-8a37-4776-848f-96cf093e5e26,Political pass determine into sell letter treatment security television argue.,,122,0.6748601452074998,25.0,Home,Female,415.0,Negative
+1da03832-02f2-456e-8ca3-f388cb61a985,Significant same now few field month peace person federal.,1.4933856708077462,111,-0.47828537643275504,18.0,Electronics,Male,241.0,Negative
+f851b6dc-f02a-4c9c-a2e4-90ea29e16438,Coach case marriage world everybody car spend.,3.237221685098379,194,-0.7806863790243572,61.0,Beauty,Other,188.0,Positive
+3a8a88ee-a0e6-45d2-a5a6-a1013a25c0ed,Team girl camera car human leave blue up officer from.,3.7559911683760996,279,-0.4653118941308789,40.0,Clothing,Male,389.0,Neutral
+258a9539-e426-4187-9b86-a3a5c6991526,Traditional option Mrs best behind scene.,4.216332199924969,449,0.9633436314342334,50.0,Beauty,Other,43.0,Negative
+c6e41c03-9c8f-4bcf-83c4-e5a5987e7c1b,Management three technology nothing build face state religious.,1.1913509545227985,370,0.7352940996238371,24.0,Home,Female,200.0,Neutral
+0e605649-15dc-4629-ac21-2618e8f8e616,Full will popular right section significant impact receive help impact east.,2.4625809479286813,309,-0.673343378821051,45.0,Beauty,Male,262.0,Positive
+f252c0f1-81d3-44a3-98d1-3f61886a764f,Deal finish life tend of form.,1.8718818464740736,304,0.8741838263239377,,Clothing,Other,483.0,Negative
+6b5e708b-0c6c-459d-84f3-a255df0551b7,Prove hotel commercial past whole record six serious senior situation laugh.,4.548420782807791,179,-0.0606055032326831,58.0,Electronics,Male,460.0,Neutral
+4ab88819-2105-4b2e-b022-08988e71711d,Director chair others front fact on.,4.888191761651729,116,-0.2793310304726957,35.0,Electronics,Other,409.0,Positive
+f1cbe175-2ed3-4a86-babf-1385e7068927,Month seek work the girl television body building movie should mean.,3.5864861685610188,155,-0.00017399761914815848,,Clothing,Other,378.0,Positive
+d59e8bf0-788d-453d-b5fa-d46a1816b336,Ever pull senior win who interest.,3.4957715615688536,475,-0.8522797283941805,54.0,Books,Female,191.0,Negative
+da959ee9-8e5a-4b4f-89f8-37b2147e99e5,Together discussion down fear along writer begin.,2.8085209129166664,420,-0.4113499743496922,47.0,Home,Female,201.0,Negative
+030c6b3f-2718-4335-bd54-77d6652bc136,Partner film southern situation civil let support star just according want.,,202,0.9932079227977886,40.0,Books,Other,320.0,Neutral
+3289872d-6856-4029-a8d3-ae0b3d5519a0,Perform happy send responsibility project important east again since.,1.8054765626796256,418,0.7623575462445575,33.0,Clothing,Other,238.0,Positive
+5073ebf1-02cf-40e0-970e-a96072301d5f,Ability together while deep hair character fight leave movement skin bill purpose.,2.7114868643676897,346,0.9792048192968439,37.0,Beauty,Other,390.0,Positive
+1963ca7c-06a3-401e-b988-8863a1a4cce5,National kid look draw face player still.,1.572278153972309,451,0.5830429398584465,36.0,Books,Other,22.0,Neutral
+45dbdae8-aa81-41bf-aa61-65f5ecf215c6,Also so paper how bit lot base budget example center industry spring.,2.5025169572926864,420,-0.5540086369442603,,Beauty,Male,137.0,Negative
+543d78f5-8cf2-4110-bb1e-87eb26689006,Thus enough much movement financial then up land improve attention.,3.7502192043874234,243,0.497713796088457,20.0,Beauty,Male,258.0,Neutral
+bcb5094b-f4e6-44de-95f9-50ba28630235,Agree talk allow up attention sense since.,4.533794141413778,172,-0.7766783566957269,34.0,Home,Male,370.0,Positive
+1a77d366-4b2a-4a2a-9e5b-226556c76b81,Cut baby trade put question wall us claim.,3.214427499972342,357,0.2469052149857729,27.0,Clothing,Male,328.0,Neutral
+fa022d79-3a7e-46d1-8364-ee9bfedc903e,Whose must big surface box especially community participant assume event.,3.1537115692761333,199,0.8196726761579107,34.0,Clothing,Male,328.0,Neutral
+17ca8e53-293b-46d6-bdef-55ae1a6dfc54,Artist phone least present he hit respond east painting agency film.,1.7711195298247615,325,-0.14589435402765383,63.0,Clothing,Other,302.0,Negative
+ccf5f185-351d-492e-ade5-6338e11b4d58,Head local ok artist push see best clear no teach.,4.235933656380131,478,0.27634910248322875,48.0,Beauty,Male,50.0,Positive
+ff97e198-5859-4f72-bbb5-d2bcb5089b46,Eight stop member everyone suggest finally budget issue eye.,3.3461729379386207,186,0.6126577430971556,20.0,Books,Female,136.0,Positive
+64b43f93-890b-438d-9fae-63a6a13c05c7,Likely wrong language against stuff officer thus lay young let summer impact.,4.826181637299355,163,0.9309842677968534,52.0,Clothing,Female,200.0,Neutral
+7e7c78de-651e-45fc-82d1-6b0d9a5033df,Chance future break among information just hot word among into movement popular effect.,3.5953374102149094,269,0.553805095635014,50.0,Clothing,Male,111.0,Negative
+2ed92af9-33c6-4137-9aa4-a3cd20395b43,Animal mind professional hundred sound idea bill through of today best.,3.381707016097951,224,-0.19962134309349477,57.0,Clothing,Male,340.0,Negative
+adbde4b0-6971-4e30-90fc-a5235c40132d,Popular blood until around discover exist grow important left foot law pressure.,2.1641275682106564,123,-0.6348549678691722,52.0,Books,Male,458.0,Negative
+ea0d6871-4b53-4e6f-b6cb-21163bf5c094,Throughout pay for admit meet teacher class improve security eat morning.,3.42016112875624,50,0.3487590842910222,53.0,Home,Other,12.0,Neutral
+b274f626-5713-4cc8-9ef6-fd6a8629e9aa,Huge suffer usually drop rich argue.,3.6663118844614777,396,-0.5319943027121754,43.0,Home,Female,122.0,Positive
+5ad5df20-ae4d-43ba-ae30-b90d642db038,Leave resource wide maintain write within something million discover.,2.1616008266487547,461,0.9358201828770363,41.0,Clothing,Female,437.0,Positive
+90527023-d0ca-4cd2-a0d9-c8684789a7d2,Statement enjoy article space media reason already company.,1.2371982254783984,95,0.5605722114359348,47.0,Clothing,Other,276.0,Positive
+7340b47b-922e-4bf6-ab1d-bcc26e3e200b,Address someone quite power decision modern human wind expect.,3.7424272841316237,392,0.34041698486801386,59.0,Beauty,Female,103.0,Negative
+589922e2-2e2f-42eb-9fb3-e061549ab3b5,Majority image message near center could how medical manager interesting politics.,2.998548103511331,478,0.5918857226377856,31.0,Beauty,Other,344.0,Positive
+a397c611-7223-4030-9a59-e19ab43204f7,Move your free see subject black have gas design.,2.560961048444611,331,-0.3867885271376952,60.0,Electronics,Other,161.0,Negative
+45a44855-d098-4933-9831-27654a658caa,Prove agree true indeed choose culture wrong partner unit within.,3.870758680158703,309,-0.9484196007922161,60.0,Beauty,Other,30.0,Negative
+ef5dc912-a74a-4af8-9f9a-efd25f8a34f7,End anything ability end break become son Mr.,3.9454014349533915,395,-0.2607204554053191,61.0,Books,Other,152.0,Neutral
+f01e5c68-66e7-4595-956c-8cda97c387ba,Learn main happen film seven thus sell those.,2.296472741335947,485,0.10373778892035412,38.0,Home,Female,199.0,Neutral
+39494a16-18ee-402c-a087-8c842679a24c,Prove collection each fill late hair would common white future.,1.2320700609886441,87,0.6361904037222408,36.0,Beauty,Other,,Positive
+ebe231a7-f8b5-4ab8-b527-471d1c64dd70,Site senior pressure every miss leave language.,1.8247462150611051,122,0.8920419812938449,36.0,Home,Male,213.0,Neutral
+02f619e9-c7ad-40f9-98e5-065cd166cb28,Man development make but head as anyone around another market side keep agent.,4.689160654682508,115,-0.8905662363853217,20.0,Books,Other,214.0,Negative
+92fef798-fcab-40dc-94f9-895ba2fc06b1,Relate attention nice pretty score industry.,2.1764887462587956,337,-0.9600671248037334,54.0,Clothing,Male,486.0,Negative
+fa2adc6e-e27d-4e44-8a30-74260cd9436e,Contain key raise up imagine when goal near power change.,1.6063431444956895,478,0.13466017830918497,28.0,Home,Other,87.0,Neutral
+2183911b-440a-485a-a610-19f516330bc2,Dream above take far suddenly spend whether security mother.,4.4919962952971755,57,-0.4271432446757142,60.0,Electronics,Male,,Neutral
+f2bce758-4a53-439b-8808-438caba9d5ed,Body kitchen not car situation computer another tax out occur where west.,1.154526351769848,251,0.7017936524018533,60.0,Home,Other,,Neutral
+4c73bc60-bbf5-4206-bf5d-e0011ac9f691,Street analysis all civil century fill why easy approach message maybe outside bit.,,319,0.6933029915337878,56.0,Home,Other,371.0,Neutral
+36cc7c0b-9e24-4613-91f9-35f9d75103c0,Worker allow positive part speech plan enter travel although employee record into measure.,4.098352572266734,440,0.9539285193953262,,Books,Other,135.0,Neutral
+8ca34362-819c-4e8e-a8fd-fa3942f6c02d,Raise past deep single movie feeling bring film so.,3.2651415446173195,225,-0.5454742580328833,36.0,Clothing,Male,249.0,Positive
+472c050e-af64-4c58-b513-18516d1de2b7,Social expert process break senior more.,,427,-0.8731835343682366,23.0,Beauty,Male,326.0,Negative
+3d1147e3-0f7f-4c59-a1e0-d71b5653e639,Book than put force little able trip choose drive.,,433,0.7898829058311869,32.0,Clothing,Male,184.0,Neutral
+f8cb53df-56fd-4164-855a-3b4e14e6c912,Build dream require federal herself significant claim recent nation early pretty home foot.,3.2663872379752092,140,0.3632956405857879,40.0,Books,Other,119.0,Neutral
+d441dc59-dca1-4eb1-8afa-a5381b3711cb,Building none really image use name group late blue relationship.,,487,0.80943388940431,38.0,Clothing,Other,43.0,Positive
+fa4ff77f-8598-4158-ab40-51adfd6ed26a,Case action thank understand environmental religious technology subject operation product.,1.7147596776490888,442,0.5300352800614005,39.0,Electronics,Female,261.0,Neutral
+f32e2491-546b-423c-9a71-9644e9376b0d,Especially imagine couple expert player particular.,3.967503005920853,101,0.1297453442393255,58.0,Electronics,Male,176.0,Negative
+d7600b03-8759-4505-a223-a44459365b5f,Hour top others national join make.,1.146090313109347,391,-0.23938913216485314,42.0,Books,Male,121.0,Positive
+581148af-712e-4d17-bb6c-294d05567f73,Order fight idea necessary hot scene as free.,2.4204985637654985,335,0.07327653433384151,61.0,Clothing,Other,476.0,Neutral
+5848a258-83fb-42c8-ab95-087395af24e6,Management actually manage thus key real long realize human thousand industry.,3.602938096998717,297,-0.11734017484323478,,Electronics,Male,324.0,Neutral
+51e7545c-9bf1-4bf1-9075-668aaece5709,Set fast visit admit stop live stuff.,4.20025165214088,268,0.09172584213802071,31.0,Beauty,Female,211.0,Negative
+83e3b4d9-019b-4167-aa26-01e0f00688fb,Size only game of create reduce happy.,3.269577279744634,179,0.752427717146156,62.0,Clothing,Male,282.0,Negative
+3254d3b3-1c16-49e0-88eb-2817847451a5,Middle enjoy for under letter decade feeling.,4.679188176697162,337,-0.3326893753591016,48.0,Books,Other,215.0,Neutral
+11e70bdc-9e98-4f2a-95e7-29a7a2748871,Itself book call space political bag run hear yourself news daughter material decide.,2.469248072011511,392,-0.5498860108862562,37.0,Books,Female,402.0,Positive
+22be3029-7459-4260-8900-ec8e629a58fc,Poor between cause explain activity environment community.,4.862563642709959,50,-0.965088157804129,,Electronics,Female,137.0,Neutral
+b90c1e0d-9fcf-4540-b321-73c341b482d1,Meeting the although value mean require.,1.9221575006073515,435,-0.2824410395504844,50.0,Beauty,Other,408.0,Negative
+b85c1ac9-9068-49b8-a1e8-6e9cc6c0db0b,Training recent suddenly senior teach difficult style decide.,,173,-0.8433812262159655,31.0,Beauty,Female,150.0,Neutral
+f7f5447a-5bce-430d-b548-84df9d463219,Security charge right fly itself minute shoulder.,4.670013116338769,175,0.5162246973058091,,Beauty,Female,173.0,Positive
+94e35bdc-f0b6-47a5-9339-37200f1b9c7d,When nothing all find provide party education fill cell themselves truth.,3.199654901230078,457,-0.8991023231084712,35.0,Beauty,Female,52.0,Positive
+a78567f8-3c91-4f77-835f-d2909f60ce9c,Recognize official want event place the institution food deal network say event.,,262,0.333677676242774,21.0,Clothing,Other,203.0,Neutral
+b642ecda-37a9-448f-8582-84b3697b37eb,Case make option interview surface arrive job present stay suddenly end.,4.678264908065557,317,0.5966648228557727,29.0,Beauty,Other,305.0,Neutral
+1fb33080-3a41-41b8-ae14-8a8911416c5e,Ground drug bar claim type cold small only.,4.773940658702825,280,-0.7319743582457168,,Beauty,Male,468.0,Negative
+51e39cda-687f-4dd9-bf25-1459aba6d8a7,Score where cultural fall design stock office improve shake.,1.8886835282734307,62,0.5196596116647523,64.0,Home,Male,231.0,Negative
+ae3b2acf-6b29-497b-b07b-798f292c6bbc,We impact rise affect carry pattern information compare federal service feeling.,4.169154433420546,220,0.4835273941422753,57.0,Beauty,Male,264.0,Neutral
+5673ca4f-ab5f-4ad6-aeed-a86f769e9012,Policy wide never glass card feel recognize.,4.8284086466699385,403,-0.4228774741493091,53.0,Books,Female,16.0,Negative
+ed550ad3-6bc9-4aa9-8fc7-6977a3b0584f,Task old sort yet majority consider moment onto southern live find without.,1.1521444971814012,464,-0.3514735881286728,34.0,Beauty,Female,458.0,Positive
+7ac6581f-fd50-4dbf-b99f-ae24639a81c5,Still soldier discuss off old base where agent than would blood bag.,3.009067497152474,183,0.9575234400142127,61.0,Books,Male,461.0,Negative
+994ee191-f9a6-4394-af3b-f7de978a8c60,Interesting three yeah bag guess surface task them ten.,4.3715446551838175,255,-0.46837034143669065,,Beauty,Other,459.0,Negative
+3f5a5e75-24df-40c5-a8ab-5fbd46b3942c,Share respond answer surface decision look billion.,2.6780383965267687,403,0.23723523090199516,31.0,Electronics,Other,319.0,Negative
+b18596d5-25dc-4d74-a588-52bc6d474251,Past decision medical say allow baby prevent mother sit development.,2.9575725611152874,413,-0.32154605689911464,35.0,Beauty,Other,234.0,Negative
+f516dedc-d36d-49a4-b2d3-655a9bab4f87,Apply until finally likely these owner.,,361,0.6694579284545206,39.0,Clothing,Male,184.0,Neutral
+f4b46272-5ee6-44bb-85c9-d1aba085a95a,Where air wide Mr front section.,3.734997681536029,188,-0.5525977996292819,42.0,Electronics,Female,295.0,Negative
+82180748-f2b7-4867-9902-bd210cf37f24,Decade sound commercial west stay before bank especially.,3.4775930858987048,98,-0.3372587774383806,59.0,Home,Male,267.0,Positive
+c76f9dc0-d5b6-4fde-aa2e-f440c3a92242,Only usually society possible guy similar suddenly know treat.,4.1158710583437585,129,-0.026797711629509946,26.0,Home,Other,205.0,Neutral
+678b67b9-ecf2-4e4f-bf42-17a71b38149a,Attack able since day understand body affect gas worker.,4.170755338166842,452,-0.0927514645281482,37.0,Beauty,Male,255.0,Negative
+57c92ac8-909b-408b-85ad-554b9a9ca91d,Seek city across catch whatever woman.,4.108848026132806,252,0.7055349670311981,32.0,Books,Male,299.0,Positive
+b8921ca7-bada-4a04-81cb-1c979f476361,Word onto carry join dinner hotel look.,1.9488594233404246,237,-0.005886404065145845,53.0,Books,Other,361.0,Positive
+eb92d07c-24dc-4ef0-b1d5-174884f8c105,Soldier Mrs reflect provide fire save opportunity participant church.,1.018316459769943,175,0.047572474310154655,,Electronics,Other,220.0,Negative
+24041051-f957-4628-8beb-003ba510dc84,Group so building policy help cut.,3.232850870288189,458,0.47747512381470547,21.0,Home,Female,76.0,Negative
+bcefa342-1902-4011-a2ba-0bd0ab1a179a,She particularly I check data since conference something executive still ground campaign board.,,439,0.29300426095658505,21.0,Home,Other,336.0,Neutral
+271a4d5a-5c51-47e9-a664-a1c402b43461,Ask need chair able able of almost talk land product.,1.0065214616603564,104,0.544804371189265,25.0,Home,Male,307.0,Negative
+fb8979ed-f363-40c6-aebb-3b5f8447a5dd,Beyond model particularly them ten American whether result speak conference.,4.981619225827631,285,-0.5616046129355068,51.0,Books,Other,92.0,Neutral
+ec3db9a5-bc9c-407f-a3d2-5f009f4b9167,Loss describe onto building support school left at else.,3.322363515551699,343,0.04257790227668168,50.0,Electronics,Male,220.0,Positive
+1e3f6971-eb86-4ab4-b4a0-cbeca90bd9d1,Baby cause race grow talk former very mouth.,3.762135482644203,477,0.09620299860472259,62.0,Clothing,Other,467.0,Positive
+6922531c-9950-4c67-9f9c-5ee62f61fc0b,Southern simple week size executive sea rest provide.,4.954536202237671,227,0.9217475219630265,48.0,Electronics,Female,336.0,Positive
+fe4fc26a-b994-40c7-95c0-a9e3a87c594d,Focus table part must themselves coach employee international.,2.6419616613029446,468,-0.5993918636707598,54.0,Books,Female,295.0,Neutral
+8323f1b3-0240-48c2-a08a-9f5156407571,Case happen friend provide loss feel teach story while commercial husband.,4.535588823515454,480,0.6958569398311463,25.0,Electronics,Male,160.0,Positive
+87af5d69-fba5-444d-8542-2e1914561a1c,Seven serious scene forward civil design step note nearly big up wife bag.,3.902297493295611,359,0.7808298658560022,29.0,Electronics,Female,225.0,Positive
+57005b70-3f98-4966-b3fe-1b5cf70b7863,During nice market market action key.,,132,0.10083146235235207,54.0,Beauty,Male,210.0,Positive
+a4c96cf5-50fd-43a0-a046-8735a1e25037,Central majority bar memory glass red expect according dream ever contain who trouble.,,355,0.0697097487486753,27.0,Electronics,Female,383.0,Positive
+2d7f2e70-7057-4185-add9-df934000f16c,Right research let professional once radio dinner line.,3.535331031368908,383,-0.9706308248124706,30.0,Clothing,Female,342.0,Negative
+2aba03ea-7a58-4b98-8da6-f85b8491e529,Thus stand network begin either free report them.,4.91737535537533,364,-0.1705302331231704,22.0,Beauty,Other,,Negative
+cd1c76ac-b0e4-41dc-9a0b-3763692c6188,Bank body everybody guess story away perhaps someone as.,3.216986219769307,162,-0.7051210056289838,18.0,Clothing,Other,296.0,Negative
+3d61e1d1-2218-4c61-81e2-90f5b7e5572d,Recent do machine art third network create.,,235,0.43409068412891494,42.0,Books,Female,178.0,Negative
+d361ce27-8960-4f71-ae75-63282fc7fddb,Send partner speak different moment human scene under fill they.,1.31708481758547,372,-0.7850769464140464,,Books,Male,10.0,Positive
+bf5e52e3-255f-4d35-a9f7-c861ea888c00,Clear effect specific approach doctor deal prepare.,4.740154993826328,364,-0.4384489305974464,30.0,Books,Female,83.0,Neutral
+46746c83-ab0e-412c-96bb-832861e4a708,Science more black never doctor in son reason physical reality visit page.,4.75377073334991,221,-0.1794455283403451,28.0,Home,Male,80.0,Positive
+7a47a098-896c-4a42-b1a2-8c4ce8445f41,East them into suddenly of drop end easy available.,2.5816677239856043,54,-0.5706661217928335,,Beauty,Male,56.0,Positive
+85db0657-f41f-47fd-992c-a9df5e4d7522,Development model fear value respond upon road full capital bill although let technology.,1.3987678202423326,390,0.21482514514416629,46.0,Beauty,Other,12.0,Negative
+3bf1fefe-a6c4-4cbc-99b8-4ffe477684e0,Behavior my add group rich play read body.,,290,-0.8046981823170984,,Beauty,Other,289.0,Negative
+9504bda6-0914-4e12-b2bb-64a79176d16d,Minute debate few ground suggest knowledge.,,355,-0.8283550791396863,25.0,Electronics,Male,59.0,Neutral
+f2a88207-94f6-4d6c-ac2d-5413df585ce3,Group fish hope defense interesting few stock change management present office participant rich.,4.837578141357357,374,0.8504145197087432,26.0,Clothing,Male,316.0,Negative
+2a1853ca-9688-4405-9eb5-e5a883601444,Top prove commercial service himself consumer.,2.136465568622547,149,0.6764600119388575,56.0,Beauty,Female,140.0,Positive
+3eb7fad6-bf26-4a3d-bf60-49dc3cca85f5,Understand to you often room surface result hard really such.,2.2565198973244254,451,-0.6074039473121307,52.0,Home,Other,80.0,Negative
+fcba8069-d301-4934-b85a-df295f1689f8,Material cold affect effect specific nation lead eye establish best party support official.,,360,-0.3988398240053752,58.0,Clothing,Female,161.0,Neutral
+0d1be0a3-0041-41aa-9631-baaca0f39ffd,Fight get create among shake he.,3.330726819851393,277,0.1880743017791846,57.0,Home,Male,439.0,Neutral
+b98ea9b5-b5b2-4b64-80d4-981233500535,Party become because voice total only.,3.3459803216269752,266,0.8401499971142865,42.0,Electronics,Male,346.0,Negative
+e6b09233-0027-4d92-9b05-1689fa46fd93,Add meet decade white state look security personal.,,239,0.6344039104781107,50.0,Electronics,Male,132.0,Negative
+99322340-2d46-4693-84fa-1980ba2c17e1,Tv strong fund song sell sign life rule easy he must oil.,1.11580486836524,456,-0.7071497300934917,45.0,Books,Female,490.0,Negative
+6273a334-a0c7-416d-80d8-3eb795596301,Moment interesting color direction cup PM build argue clear.,4.694858407903597,93,-0.08044314759452798,36.0,Clothing,Other,475.0,Neutral
+f3b11522-311e-4ef8-9231-d7ad544015c9,Decade raise third democratic expect after part approach audience north pay thank answer message.,3.981683188459708,360,0.8048396602494015,18.0,Home,Female,230.0,Positive
+25cbd80a-6fac-42b4-8c4b-505868389817,Hour begin important my choose throughout event anything management risk player meet determine.,1.4743100727963596,233,0.7064810371160928,49.0,Electronics,Male,105.0,Positive
+00a157d9-6c81-424c-8835-b197da2b9827,Keep minute can try against capital technology who discover.,3.466884290426479,267,0.5359373024193166,,Beauty,Male,331.0,Neutral
+ae45ad82-daa7-4d75-8cb9-834069f44238,Firm sense live contain kind see.,1.7646418139897864,430,0.7341041521504381,42.0,Clothing,Other,152.0,Positive
+b0d41901-5e28-40a5-969d-d7e75d4fe6d5,Pass memory stock through thousand just to build.,1.1611097115331104,319,0.7719521119401167,31.0,Books,Male,456.0,Negative
+0c5e77a8-3b00-4b9e-ae67-ab0c721cae30,Ground country culture avoid available talk would heavy commercial computer stage.,1.685868122266375,323,-0.5698831978178089,54.0,Clothing,Female,179.0,Positive
+56f9f2fb-1ca4-4861-b541-961a1b84460e,Within apply such light now walk yeah particularly.,,201,0.08461069485600903,55.0,Electronics,Female,469.0,Neutral
+5a0d7f26-78b5-4b2f-a191-bc078710420d,House manage event size go bank night according seek responsibility forget.,2.9735286624493407,182,-0.790146963902927,21.0,Home,Other,5.0,Positive
+810885ab-8117-4f44-9f8e-83461eddce6b,Message learn memory let treatment top according education him manage how near picture property.,,140,0.8382215040164709,19.0,Clothing,Female,132.0,Positive
+35e31b44-0c7f-4ca1-b8d2-38792e56d811,Last job music history crime low out listen else character see room.,,432,0.38669318749819315,26.0,Electronics,Other,223.0,Neutral
+32ec94f5-5a58-4429-a069-6b0fe570f7d1,Edge let how little road ok.,2.904911896356246,303,-0.9659511035760169,27.0,Electronics,Female,228.0,Positive
+06c5cb61-e01a-4c7b-96a3-75b35f18b901,Trip resource sure about indeed information thus reality.,2.4548485788572467,235,-0.9568847726413066,29.0,Home,Female,89.0,Positive
+008e744a-ef80-442d-bd5d-9caa7e086772,Less risk beautiful enter break such sure word rock difficult memory strong.,1.3095764488212107,191,-0.9787536076217147,62.0,Beauty,Female,376.0,Positive
+e9ba2c6d-f2fa-48b2-8849-27d1e21fa6c3,Watch scientist prevent organization over six explain him civil interesting.,1.4730374731677793,134,0.6177713022725608,47.0,Books,Female,57.0,Positive
+d672cd9f-05ec-49b3-a6e2-9731b225df2e,He interview act where look national.,2.082243447597789,335,-0.7465636155566675,22.0,Clothing,Other,486.0,Negative
+5d7a41f2-d9be-4008-8aeb-378f6085476e,Political tax beyond eye bit force even society nation majority practice we society.,2.0822482039372305,241,-0.6608775806030713,59.0,Home,Female,216.0,Positive
+e8a96cbd-99b7-4ce6-ba8c-5306a4cf7154,Later very meet class almost drug simple these positive.,,435,-0.15613937028250846,48.0,Electronics,Female,238.0,Negative
+44d3bd4b-c753-4268-b72e-070e16754838,Everyone same book structure season pressure entire.,1.4083363591991342,262,0.8551549472122513,19.0,Electronics,Male,492.0,Positive
+09b9e204-9879-4865-94b3-b4f3d21448eb,Father study television go learn bank.,,59,0.6214567630130614,38.0,Clothing,Male,249.0,Negative
+87c71aee-83c4-4969-8fd2-2d04bef708a6,Husband their box we finally yourself special south us at.,,428,0.7035061996775851,64.0,Clothing,Other,169.0,Negative
+5ecb6c2d-81ce-4a66-9338-ccd10120941a,Interview situation rate member gun culture line just organization brother serve.,3.5397941144109537,406,0.5170218090258658,20.0,Clothing,Male,87.0,Positive
+8ee54d46-d5e3-4fe6-bb25-e0389a0b3b0f,Above instead now light other hotel note.,2.8979281188455963,207,-0.8449982853106122,18.0,Books,Other,316.0,Positive
+83dfa01d-476f-4a7c-8c73-e9c84c447153,South sometimes smile bit scientist almost drop now father analysis area.,3.415608359544225,311,0.14702652436658004,36.0,Beauty,Female,,Neutral
+98792225-0858-4a78-bc8d-b107ce0db4fe,Inside discuss cold important college lose clearly you blood president because.,4.443732864153486,383,-0.8354880178800439,61.0,Beauty,Other,177.0,Positive
+6ffeea7d-0467-4c87-bffd-d46d7f9a0488,Say character PM different democratic strong including.,1.2086160838799076,202,-0.7042258296112593,27.0,Beauty,Female,15.0,Positive
+72e15418-b5b4-44d6-a107-9b7a4c43e0b9,Attack mouth live line week story help avoid north political.,3.235871152322034,55,0.044455078182220165,34.0,Books,Other,18.0,Negative
+f432cade-1ce6-453f-a760-aedc218a0af1,Business management hair loss son ask cup statement across interview personal machine.,,455,-0.4741755792473572,57.0,Clothing,Other,,Neutral
+d15f4b17-0f56-411c-875f-0664f0798188,That rate film teacher serious vote garden picture down including customer side owner yard.,1.7823304249321335,87,0.04233434885819509,64.0,Books,Male,313.0,Neutral
+30cda81d-6ebf-416e-8241-fb1ac3f2559e,Per ago side type room return.,2.1076361115529068,366,0.8005735337631392,,Beauty,Male,129.0,Neutral
+e25ecfa3-a591-47a2-b3d2-2622665542b0,Spend tax travel care soldier manager particularly history heart admit good record heavy.,4.47227649734687,431,0.5749880203758657,50.0,Electronics,Male,10.0,Neutral
+839d1888-bc6b-4bbb-b878-1665e87d0026,Owner network late true play surface.,,163,-0.4688902931073007,61.0,Home,Other,66.0,Neutral
+1e42a17d-523e-46c9-90f6-e60d008c27ef,Rate evening population along available single.,1.4719321477959304,374,-0.6991936487682888,35.0,Books,Other,6.0,Negative
+985e5aaa-83bf-48a8-89ae-4011f4881447,Left yourself probably part real itself bed national century edge its next need.,4.5716674962326405,250,0.6996456331844714,,Clothing,Female,183.0,Neutral
+ca68dd13-3ec9-4bce-8498-72b9a27ba304,Meet law respond opportunity pay church education leader.,3.979500140757588,325,-0.7242697477954338,60.0,Home,Other,111.0,Negative
+37b2ca48-fdf5-439c-8cf9-5170bbcfb618,What beautiful win east actually friend when discover a.,,151,-0.0073470590016146975,,Beauty,Male,371.0,Positive
+132f8538-a4cd-42f6-a1e8-ae3436da0555,Evening sea customer person leg north.,4.030659028821288,323,-0.7839387663637651,22.0,Home,Female,75.0,Negative
+7c066503-bd49-4b96-90bd-fd0f76fc19d9,Test market mission quickly assume modern debate save push mission once.,1.0600770875964591,248,0.6598265239583443,22.0,Clothing,Other,115.0,Negative
+9f8cf59a-5ed7-4904-886d-186990d42525,Each its fine authority American ability mother head activity between.,,163,-0.4020750365120642,28.0,Home,Female,147.0,Negative
+8a3c34eb-e6fa-4bf8-83a7-4bda03e78c74,Everyone sign house order apply partner.,2.042307137387273,412,0.14217880148724826,50.0,Books,Other,207.0,Neutral
+6607c475-d91d-4dc8-9d41-94dcc84d2eeb,Language name peace daughter box eat federal.,,355,0.9268119497545948,54.0,Books,Other,286.0,Positive
+1679d8cf-f3c4-4355-b66f-41fefe7922b3,Fall identify wonder black wonder ready.,4.28983786025446,321,-0.6993989035957038,25.0,Electronics,Other,241.0,Negative
+2963dbf3-c18d-48ba-b2d9-6faacd93e2ac,That five treat blood song including area top market rest since conference.,1.1923335250943068,246,0.1116519868903203,19.0,Beauty,Female,62.0,Neutral
+6d488821-e365-4f00-9c87-de846395c15b,Work yourself say street attack relationship natural.,2.267991303665964,243,-0.74162844722868,,Home,Female,61.0,Neutral
+1a0a05c6-b2e7-4eb3-a6ea-f52346f375d9,Sister learn decade nature million painting idea light but partner.,2.8319123296784925,448,-0.11666321447970684,,Beauty,Female,410.0,Neutral
+d4f548e6-ffdc-4a1f-8378-c1a19c2b88ef,Current somebody guess different deep four wide as upon memory public pay.,4.160023113786571,400,0.29876689854663785,40.0,Home,Male,380.0,Positive
+fda904ec-07ce-44e9-8ea4-73b13cc48406,Security tend community travel far reflect truth low then within.,2.6006440586317154,94,-0.18066208274189677,36.0,Clothing,Other,402.0,Negative
+bee1a6c1-8fc1-43dc-bb9b-69288279d8fa,Build detail across word fund society area forget note without while thus.,1.4659805425595458,119,-0.13737308262433534,36.0,Books,Male,275.0,Neutral
+8795fe6a-5b88-4bd7-9d48-763bc689baaa,Knowledge professor attack what go beautiful.,1.1935269257383037,326,0.19806889370073222,52.0,Clothing,Other,340.0,Positive
+1e00d00c-d131-40eb-9bfc-cffee827464d,Allow live sea strategy drug director wife.,3.45169472710678,448,0.6696200490472828,22.0,Clothing,Male,180.0,Positive
+85b40c1e-248f-4fad-a106-bca0ebffc170,Situation process sister hair continue lose stand.,1.2372379081937708,137,-0.5863555457259455,61.0,Beauty,Female,16.0,Positive
+8bab98a0-a849-4f06-b485-28f952ad2949,Model and believe effort city show.,4.281571682921472,321,0.8680174221656907,56.0,Clothing,Male,469.0,Positive
+4be3e64a-de1b-403f-a15c-49535682f01e,Nature method think oil thus choice save certainly source.,4.259230833845901,363,0.9339192226868769,,Clothing,Male,205.0,Neutral
+f42460c1-d88b-4489-b9d5-67d179ad7694,Itself there result itself dark card strategy behind place behind yes.,4.973775755845524,237,0.5300847490571647,26.0,Electronics,Other,224.0,Neutral
+1802430d-652c-482b-bd31-4dad0b0e093c,Very listen major meet source apply change small mean type democratic research keep.,2.921909425105101,194,0.7121655454594373,29.0,Beauty,Female,73.0,Positive
+7234db53-69ba-4ee3-8f1c-fe4ebf6ea99a,Loss shoulder challenge concern hair like position.,2.42769638252908,407,0.47479465010880784,63.0,Clothing,Other,43.0,Negative
+1aedbc6b-3187-4c6b-8861-1795a75602d4,Save kind course meeting voice authority focus me.,,367,0.4463272522934012,60.0,Beauty,Other,232.0,Neutral
+a87552db-ab0b-4b17-85a0-2d6b6863f446,Of although figure concern school all notice point same hold.,,268,0.5605561160109211,31.0,Home,Other,,Negative
+89cd1372-eeaa-48d7-afa6-2c6582ec0078,Garden light rest foot whether her fish spring across drug fill.,1.9462263903399402,436,-0.8333792019030237,60.0,Home,Female,211.0,Neutral
+ce4f8aba-28b3-4820-8b9b-e7c993154cff,Movement improve popular me nice send.,4.304178669805989,400,0.6810851071839308,60.0,Clothing,Male,169.0,Neutral
+7599a984-060c-43ce-ae55-775e67fdc5c4,Some system other when lose or toward hit lay your.,4.434364137145795,328,-0.544074003018467,62.0,Beauty,Male,443.0,Neutral
+d61f3b0e-c022-4b8b-829c-d93784f9297a,Image benefit of table practice finish a someone face soldier girl kind reach.,4.444713843394895,314,0.028358061404883284,30.0,Clothing,Female,217.0,Positive
+24b9e19b-c6a2-49c0-ae39-639cfafabdd7,Tend next many again produce director why ever green project community but.,4.327906613391944,412,0.8529937308045992,53.0,Beauty,Female,396.0,Negative
+b0201a23-6c32-4dcd-b43f-ade3859b739b,Simple enough finally power quickly contain discuss certainly anything everything drop consider.,2.202819204735391,446,-0.1625752983961617,26.0,Beauty,Other,109.0,Negative
+b56034f4-c241-4c43-a9e8-dc1530807945,Determine analysis fight tonight section agree.,2.332304646942955,280,0.19652369646029055,42.0,Clothing,Male,88.0,Neutral
+4957d626-4233-4ac9-bd7b-1d8894cf78cc,Sort itself ever rise mention trouble to matter thought.,4.554425401556615,384,0.30830322444435665,57.0,Electronics,Male,257.0,Positive
+116bf880-a135-4cc3-9aa8-3b815bf5a1ea,Recognize force environment individual hair when station letter.,1.994581655759975,173,0.9614854509320045,62.0,Electronics,Other,155.0,Positive
+093fc6ff-f4fd-4c65-8561-50995816e88f,Then food two bad film call wish audience imagine.,2.6888739994946,72,-0.2147696655000304,60.0,Home,Male,278.0,Positive
+33a19b76-7419-45f8-b33f-54ed88203b06,Brother cost experience expect later avoid such.,1.3294504469684938,340,-0.5816927011106683,34.0,Electronics,Male,150.0,Positive
+2668c933-88a9-4967-9ba7-5a5b8d0f3bf3,Great explain my other book stage simply operation.,3.9446294753515705,339,-0.24468307206702433,32.0,Books,Female,321.0,Neutral
+89ff6b23-5ff3-421f-9d23-2998524df66e,Cost including option yes care social project memory one pick culture.,3.2574991244966074,155,-0.052120009915457066,25.0,Home,Male,18.0,Negative
+7d819005-635e-490f-a59a-e45345cf0c56,Change many general where idea organization game.,3.741223810154117,67,0.948477653506171,19.0,Clothing,Female,163.0,Negative
+160c0d45-6590-4df2-a14c-526562caa130,Prove not write general staff hot practice two ground PM develop.,2.267480270982972,386,0.8210618994499408,22.0,Beauty,Female,222.0,Positive
+f4aff838-df98-4f61-8884-5dbfcaa39d1b,Oil use though seem child everything drop audience as same phone tree.,3.8976356650550996,490,0.2131768055642096,19.0,Clothing,Female,468.0,Positive
+9ba65ddc-bded-4396-a800-fad7c406336b,Certain before describe anything live down rest least require American.,3.2306475370567345,278,-0.7780153677611803,18.0,Electronics,Male,5.0,Positive
+abdbf71b-2f81-4348-9a30-76faa6b11ed4,Treatment provide hospital perform need officer likely receive letter establish instead decide.,4.9124308312675895,400,0.07197823354673583,36.0,Beauty,Male,416.0,Neutral
+5a69256d-9591-4865-9cbb-f509fe5e021b,Future how none challenge standard property.,1.017153935721256,176,0.8810634808478985,28.0,Home,Female,88.0,Neutral
+49ddf205-1596-42c4-ab34-4c4389662029,Against actually before under believe size ball.,3.6218689627652014,217,-0.21793976591459674,30.0,Home,Male,8.0,Neutral
+278c9453-b6e9-404e-9e4c-934df2f237b1,Test eye two front miss person hour town tough.,,271,-0.9550956051268547,60.0,Clothing,Other,125.0,Positive
+f8c68ac2-bf54-440c-bc94-1ab12bb6a97f,Behavior affect thousand require life challenge western end.,1.5583707353756968,331,0.37501677179463244,29.0,Home,Other,342.0,Positive
+403081f6-7e2b-46ca-93e5-53575f106462,Realize because during others whatever officer impact.,3.260235673424198,319,0.2895207800403483,59.0,Electronics,Female,429.0,Neutral
+ca7d4894-72ef-48d3-97ea-0fef115da048,Represent subject beautiful address law southern reason go between network popular.,2.566175517626112,97,-0.43501925941243336,64.0,Electronics,Other,294.0,Negative
+f10e8c04-6cfd-4786-91ba-7314091a3f48,Success tough institution water everybody some couple for drug.,3.056017590301815,341,0.8491431816485415,31.0,Clothing,Male,347.0,Negative
+8d35bf9d-ccd6-4be8-83a0-94b68e8c71a9,College over because identify improve your.,2.025091597507715,152,-0.5715672720120537,49.0,Books,Female,439.0,Neutral
+7375719a-5fac-454b-843e-924e50922f2e,Discussion around suggest eat program act community cup him.,,371,0.9416961730039666,52.0,Beauty,Male,250.0,Negative
+cac81c93-47c1-440e-8dda-c302bc215799,Worry several learn career happy remember.,3.554909639086382,317,0.4820556107298557,45.0,Clothing,Other,445.0,Negative
+52a203c5-d38f-4411-bf5e-1c127e43e050,Image for right religious eye since together easy where.,3.3319990084852686,208,0.8333318662086151,30.0,Beauty,Female,475.0,Positive
+fef5857c-75d7-4ae4-94da-c98dd84a000e,School economy worker strategy quickly daughter rule per matter bad art only because.,3.8438206512274617,68,0.04472198423095741,60.0,Home,Male,410.0,Neutral
+28ab4839-7d22-4c05-a47e-ab77b0f33ec4,Mother side east quite institution research heavy series especially society reflect.,,445,0.1632250388598222,44.0,Home,Male,230.0,Negative
+478ea31a-792e-407c-97f5-3cb1f1f33474,Four test we provide here crime last.,3.225164863734692,174,-0.03754699632125824,61.0,Books,Male,319.0,Positive
+c8297393-1488-4629-8a2a-89293f8d7c95,Other environment agent option speech option own professor share everyone issue box.,1.5434400485157842,100,0.28725316454180616,50.0,Books,Other,437.0,Neutral
+51494328-7ef5-4199-8830-33b5093c5b93,Expect sort before health maybe claim water.,2.0490484868356402,251,0.5320442722109406,50.0,Electronics,Other,40.0,Negative
+f9d1ce37-4d89-4c79-bc74-fe6327c9e60b,Ready politics benefit close care bar coach begin something.,1.4124632854617154,96,-0.8267916391537442,58.0,Home,Other,242.0,Positive
+d22e87ad-dbe1-4aef-8286-4c3e03cc62d1,Actually relationship affect second enough with cut foot onto out.,1.65375768648684,152,-0.682602547663254,55.0,Home,Female,357.0,Negative
+5aac2128-17d8-4459-9a26-b9adb73f0b89,Total stand door find man he can use why control.,1.3125728301476287,362,-0.13929008769972584,26.0,Clothing,Male,141.0,Negative
+7f9952ed-cd69-43ff-8ee5-f8a6daae4292,Resource common everybody despite policy plant measure more direction anyone north likely outside.,3.1150692221186667,293,-0.029317619987023313,43.0,Beauty,Male,162.0,Negative
+bc53f478-c9e7-4bf1-9f45-5c451d8705d0,These teacher fill term result fall stand movie study answer moment Congress without.,3.8331301146126564,132,0.6703011143054964,22.0,Home,Male,381.0,Neutral
+2e31a515-0975-46fb-9a61-df981a99ece8,Have why movement move always business statement image physical collection analysis.,1.583688857119581,338,0.8096211784069767,51.0,Clothing,Male,,Neutral
+d58df0f7-8730-4ecd-b516-ef68a2ee212a,Apply manage operation subject often drive address along fill effect analysis.,1.1844870721628555,409,-0.03181295948288887,20.0,Electronics,Other,22.0,Positive
+74b6ade5-d032-43b4-b1a2-77ca32a83ea9,Firm discussion hair movement control pretty bring hair write main guess over open.,2.8212147480689524,366,-0.4723642924036646,46.0,Home,Male,249.0,Neutral
+2e6a5b52-8710-4c25-a00a-329d671cb6c4,Middle position mean share seek from past national model audience sign media nice.,4.880686639209804,489,0.27370258948931503,35.0,Electronics,Other,100.0,Positive
+d07b2aec-d7a6-4b6e-bd84-3f504021a276,Former will grow more area effect employee matter fund lay race economy.,3.4026193947331906,120,0.3307364423763042,47.0,Electronics,Other,479.0,Neutral
+c7f2c356-083a-4672-8548-4c6acea20592,Response strong certainly home party Mrs see something inside subject.,,137,-0.6093359673269896,32.0,Electronics,Other,493.0,Positive
+4cc564b8-a7f2-4d95-9e17-1187ec3179e7,Thought try spring garden staff out himself TV machine.,1.8079891450698704,187,-0.28198965792313047,31.0,Beauty,Other,169.0,Negative
+cb55ef89-bb68-4aa0-9cc3-b86369344005,Business become various company human kid culture.,4.708359506417504,189,0.3856148462451485,60.0,Beauty,Female,330.0,Neutral
+86ac784d-e6d8-4502-9a49-1e63f33a7099,Partner crime hot learn I go general detail accept police current.,2.7401989772233915,395,0.7976443505014179,57.0,Books,Female,5.0,Negative
+30ed2c2e-1acc-4273-b7ba-88e99fb2260e,Organization note baby down parent adult analysis those study concern responsibility class.,2.195946607837629,281,-0.06360391611958094,21.0,Clothing,Female,455.0,Negative
+965eadf2-0dfa-4b61-9640-3eec9903a488,Source nice know front almost water draw piece.,3.0932131026982908,134,-0.8763608609666527,42.0,Electronics,Other,255.0,Neutral
+91a8a973-e5f3-4180-9553-67d483ae34b5,East require popular begin particular collection company certainly fund still interesting authority station.,4.1904009620409415,324,-0.2944501489973046,37.0,Clothing,Female,28.0,Positive
+8e4e2657-5e5f-4abd-8fd5-0e2f0ef88b72,Store reveal possible put identify good green kitchen article.,4.151487834433975,103,0.8405079718587054,41.0,Home,Female,204.0,Neutral
+bc59fa3a-373e-45ae-9f33-78ffc7c36b95,Worry authority lay financial ability loss base.,2.532328605543692,150,0.7858113162446838,40.0,Clothing,Female,,Negative
+66c6af61-cee5-4d9d-b103-a5608352e6df,Talk meeting not all none because bad thing generation current stand option.,1.703446912943102,215,-0.2368213410095461,62.0,Home,Male,498.0,Neutral
+b169230a-afe7-4564-870a-d9a2048ba521,All view must performance citizen sense specific.,1.5895905463231919,125,-0.6970079100259328,42.0,Beauty,Female,162.0,Negative
+187cdc00-716f-4c5c-b4d0-a9c26dc92b57,Quickly hot rock politics help even form herself during.,2.0820282892753186,294,0.31006454380470183,37.0,Clothing,Female,,Neutral
+afb27ca6-9f12-4c63-94e8-ca1819140d07,Life case evidence less range debate whole different police scene.,4.715325610729903,233,-0.3419274110098627,,Home,Other,375.0,Negative
+432c9471-5e07-43d8-ae84-fdec910eecc4,Last guy but white air traditional despite board safe resource.,1.8523181263369306,225,-0.36891558333412133,51.0,Books,Female,149.0,Negative
+dea32665-4892-4b57-b53d-cd82ff38928e,White shake through represent point event card soldier necessary career such.,3.5043331971897342,490,0.29116878665543977,50.0,Electronics,Other,55.0,Negative
+065860e6-e58e-480d-a452-7d6fd14068a5,Paper next chance bar radio crime training begin edge able remain practice else.,,388,0.45087716844454917,34.0,Beauty,Other,241.0,Negative
+f0150560-d10a-40a4-b036-73c625fbd98b,Tonight hospital body wind approach ok bag address mouth audience occur may.,4.335162280949529,178,-0.16673860681698183,63.0,Clothing,Female,266.0,Negative
+c9e01498-285b-458d-8fa6-c42ded0a7ea0,Capital single second bag cost manage.,3.7678414057335043,180,-0.08861219643347673,40.0,Beauty,Other,334.0,Neutral
+3311658b-b4fe-4c90-b0a8-163bf0651e19,Shoulder save order fall city company message case agree message.,,54,0.748294308622867,33.0,Electronics,Other,,Neutral
+aed75d17-546b-475b-98dc-249d1b09241f,Growth another despite than three student risk explain recognize message.,2.826048156569353,335,-0.2655386899193539,47.0,Books,Other,,Negative
+c5fa0831-1af5-41d3-97f7-d4ae28bd8ae9,Watch term piece kid popular sure this.,3.2981467689397883,483,-0.3838332732695089,25.0,Books,Other,46.0,Neutral
+1506a716-93c2-41ab-a8bc-487895ee9f62,Chair result finally news less vote their successful dog.,1.9321795671855009,219,0.40017952031394133,54.0,Clothing,Female,25.0,Neutral
+c637f72a-3678-4862-a155-9665d0037056,Possible need in just edge opportunity position show.,,436,0.13990866761644183,,Clothing,Male,154.0,Negative
+449a9771-b33a-46b1-bfaa-ab2360fd3c74,Full be check billion identify party safe argue term positive.,,494,-0.7548048786691053,21.0,Beauty,Other,36.0,Neutral
+7fb9033c-d93e-49d3-a613-38e82d373bc0,Could then where something similar service.,2.1369786654696505,270,0.9036850813671522,39.0,Books,Female,31.0,Neutral
+cb75dc9e-6148-4309-9a51-fb000db9a199,Improve scientist later fund order article unit scientist recent meeting.,3.9257778262343273,141,0.42673759941803113,20.0,Electronics,Male,70.0,Negative
+9b7d9c0e-0d93-4b0f-8020-925f886b6317,Exactly really trouble than according certain available at serve create say interview become.,1.8413087793318983,445,0.8220332297616546,45.0,Home,Female,480.0,Positive
+74fa0f84-8edd-47ed-a06f-6a6820001ccc,Cost whose after cell off so tax determine.,2.629856749694942,317,-0.40079020218472317,63.0,Home,Other,236.0,Positive
+59756e57-bc5f-40fb-8741-d974a04af0a7,Rate car continue show against mention part.,4.9539970529583215,381,0.1966442685759584,29.0,Home,Male,77.0,Positive
+2b4c85cb-2a37-455b-9cac-3f56dbcc9ae4,Somebody house marriage daughter law top.,1.4270393525732614,374,-0.5079545693161791,32.0,Electronics,Other,,Negative
+f9d9fe83-2162-4709-ad11-5c3d3d96059a,Easy offer wide speak on treat remember.,1.9275311503756711,371,0.093768088335624,45.0,Home,Male,347.0,Neutral
+4e48ab6f-da8b-4461-81d7-85ddd29d34b0,West provide yeah teach fast fish pull.,3.9362524614695187,397,0.7478588144670373,46.0,Beauty,Other,462.0,Neutral
+2dc7eaec-c6e8-4f09-a46f-7ae82390ccc7,Charge like politics push source increase lawyer evidence.,1.4344156137591861,222,0.7857801350466433,50.0,Home,Other,,Positive
+c71b4afa-092a-44a2-95b2-9e9116cc0735,Newspaper example finish player easy ask energy.,4.388446757890259,228,0.9783411527420924,,Electronics,Female,267.0,Positive
+8829781a-2e44-4908-91e0-bce71e1c3c81,Determine claim factor reduce travel mind bit free more.,1.0988703305339782,306,0.9665705544552308,54.0,Books,Male,423.0,Negative
+b8ab9c3a-aa56-4038-8e19-ad47658f48b6,Maybe hour first my writer Democrat.,3.0108221971226614,413,0.043324423201046125,18.0,Home,Female,140.0,Negative
+e361bdbe-ce3c-496f-8a3d-d0a9d150ea11,Product get change compare find even wide power yet.,2.506974779037777,406,-0.37935514391866176,39.0,Home,Male,34.0,Positive
+3fce00da-7bf0-448e-968c-66a8a617be4f,While statement present cup quite suffer strategy know usually window.,1.5149093052702263,239,0.8553416653405141,27.0,Home,Other,193.0,Neutral
+31161193-0b9f-4933-8793-ba8a10473400,Seem direction series kind recent throw its later hair final dark interview.,3.5756375493748482,128,-0.521208320040544,,Home,Other,170.0,Positive
+2da2d561-0892-4fdc-8781-98dda13b2a15,Hospital prepare media people set and game sometimes however.,4.858566403805726,188,-0.2269048495894761,39.0,Books,Other,123.0,Neutral
+061808f7-bdf0-42c7-b419-df00830bd9f1,Usually need sport along school chance such argue on thought role when.,3.3564967713475613,342,0.995113040548594,48.0,Beauty,Male,187.0,Negative
+f1e3b985-98c7-4a53-9b6c-6757d845025e,Year space each teach detail ground measure position who.,,201,-0.496788425801457,35.0,Books,Female,110.0,Neutral
+fa764434-e2f3-4870-94e8-9faee4aa8483,Could anything purpose today century into himself teacher Democrat fine past agree mean.,,200,0.2526461710111363,30.0,Home,Other,242.0,Positive
+a4fd06e9-52d6-4d76-8ec3-810036ff951d,Consider land become stay letter onto national go medical.,4.2009365788057345,464,-0.640923658081805,48.0,Home,Female,,Neutral
+e215a822-6e99-4497-8c45-b6e0ba0f6707,Choice pretty member must fear his partner per finally become floor performance call.,4.390132066401509,228,-0.5943069150751099,53.0,Electronics,Male,139.0,Negative
+b300f88f-a477-487e-824d-90732ff51c1a,Peace research head factor available city hotel especially mother clearly fish.,3.4424319827294187,392,-0.7915631705971711,22.0,Books,Male,299.0,Negative
+ef44eb66-0c89-4707-9eaf-14aefda71815,Their like bed too option front week camera police far out behavior personal.,1.0316885038909436,220,-0.9059339570250973,59.0,Clothing,Other,181.0,Positive
+566a231b-2e51-4338-ba84-88a99890d251,Thing radio occur himself notice key room maybe can but late site meeting.,1.3911001383791306,491,0.613501611213576,37.0,Electronics,Female,364.0,Positive
+9f0363d8-c50e-4151-9348-d276e3b0b338,President describe reality social vote point everything suggest memory.,3.7656595115192553,193,0.7174041208111639,56.0,Home,Female,113.0,Positive
+56c83f62-c50a-48a2-9b57-cc8041eeb200,Require activity young training my suffer land learn so season service.,,226,-0.9212857203445499,24.0,Beauty,Male,141.0,Negative
+eb0d64c2-5d8d-42da-a83d-76f79a408f56,Work relationship risk the mean bag notice.,2.108655029283172,180,0.48436197379131984,25.0,Electronics,Female,321.0,Negative
+b8dd3031-e3de-40b9-9e9e-fd2bd7cbe6fc,Peace break teacher garden save most power soon.,2.503619502056055,320,-0.6742693465001439,25.0,Electronics,Other,154.0,Positive
+a625b164-ddb9-4cb1-902f-17e955eb745e,Sit product three age ten return TV hour fact subject.,4.200509157526588,315,-0.3213367847433053,64.0,Books,Male,204.0,Positive
+7449b9fa-7895-4837-83de-dcde2703277b,Call piece consumer see subject risk military produce board including public pick.,,497,-0.8190052963822225,53.0,Electronics,Female,159.0,Negative
+fc875147-d38a-44b7-a5e6-676f5ae45a1b,Free compare indicate night professional forget recognize measure identify upon hear lose market.,2.0476976937973057,186,-0.4853396090236015,40.0,Electronics,Female,416.0,Negative
+8f96219e-67c9-4c5d-877a-78a0afa575ef,History discussion serve pass owner thus mother sit assume new my degree since.,,356,0.026737936438451237,32.0,Clothing,Male,366.0,Neutral
+01ab3d0f-d5b5-4a6a-911f-0bafc2e614e4,One few consumer could player maybe understand realize sing.,2.0881317888435746,172,0.9138935805245292,49.0,Clothing,Female,361.0,Neutral
+ac5fa1d7-2996-4f77-aeee-7738a1911558,Exist help approach beautiful health admit kid fire seek road.,1.7030430403758552,343,-0.0003221765923293596,34.0,Beauty,Other,430.0,Positive
+7a52dd9f-4893-4264-a90e-dec4d92ae9ff,Strategy method tax either today item race piece.,,126,0.7782085577921452,,Beauty,Other,395.0,Negative
+d7792d12-12a5-4b26-87b2-ea880ebd75dc,Paper color family claim detail he establish for save story.,2.7175322807368656,486,-0.8901249581459449,54.0,Books,Male,318.0,Neutral
+9c011f55-e2e9-438a-8805-f99a92680428,Down hand myself right player mission.,,130,-0.06308060051699305,58.0,Home,Female,302.0,Negative
+7bb3fd80-b9b8-4c99-9513-eb693d701f7e,Move trade south north center statement work spend threat to table.,1.6099392564147115,440,-0.8606067270201221,56.0,Books,Other,476.0,Positive
+0b50522d-6dfc-4bc1-94c8-7f2c386f12df,Accept TV quickly others beyond director hundred strong enter two.,1.4198906908351194,140,-0.4185564276260598,64.0,Books,Male,351.0,Positive
+ae5aab98-602c-4fa6-99da-c94a871d3855,Large recently story call use education good strategy.,3.9847475812078437,151,-0.9032835680923423,44.0,Electronics,Male,179.0,Negative
+a160143b-b9a5-48fa-9518-d77aa2251735,Account fine sure likely send none policy.,4.015252250465872,484,-0.2664053914578628,44.0,Beauty,Male,347.0,Negative
+810275a1-b844-469a-adc0-d2c7c10293b9,Could fall type sometimes meet benefit here.,3.649702178810975,125,-0.14509487564119028,34.0,Electronics,Other,334.0,Neutral
+bea18bd3-053d-43be-81ea-2c69d901d6e4,Reality write short main whom system surface wish federal.,2.7882558744692,209,-0.3140467090912371,40.0,Home,Other,249.0,Negative
+aaf211f2-5d39-4f23-8283-add28736885a,Green prove trial head recognize yet heart course memory window father.,4.446684510520004,488,0.23278484106867436,49.0,Beauty,Female,,Negative
+6d5fa006-96ee-412c-bd1c-690fec0ba89c,I condition body material exist defense letter nature minute thus its week stay.,,278,0.06018616754580974,51.0,Books,Male,99.0,Neutral
+de072161-35fe-43bd-b451-a79e451ba160,Energy during election much south worker recognize development deal military.,4.1981590214097455,159,-0.5491519471948871,62.0,Clothing,Male,251.0,Neutral
+5d0bfab8-be38-4962-8f9e-7004db6c174c,Suffer well fear realize example when travel particularly according various.,2.111514187608624,168,-0.5724921926624518,47.0,Beauty,Female,412.0,Negative
+2c49b875-ec8a-4464-b72c-3474dad77ca3,Couple social animal should history young dinner their rise past show sell.,,338,-0.06621627474238978,34.0,Electronics,Other,21.0,Neutral
+23352ac6-0a51-4d52-b182-49d05bf1a3ec,Window everything personal election want property dream road.,1.8101115796538814,383,-0.5106396410765464,39.0,Electronics,Other,470.0,Positive
+08adb084-e5b9-48be-bbff-0cad43aaf20e,Charge spend response real plan happy goal send music.,,301,0.14151768231721262,,Clothing,Other,175.0,Neutral
+7c99638f-cd4b-48b4-ac20-8116996e37ae,Value true manage walk south try speak eight improve down.,,234,0.9725961490799988,58.0,Clothing,Female,169.0,Negative
+98381e1c-a283-49e0-8629-85262d5b4088,Rest challenge defense yourself always tend.,2.2860969211438436,103,-0.9679676393551957,60.0,Books,Other,187.0,Negative
+f5584978-7cda-432b-88d2-8df355cf21a8,Friend much throw cold meeting however prevent site.,3.628292695596364,171,-0.23697403600744793,52.0,Beauty,Other,223.0,Neutral
+a24af93c-cccd-4289-9f81-b49d74dee947,Site name herself member house gun culture yeah without.,1.6191870439337084,93,0.5275904345134077,21.0,Electronics,Other,26.0,Neutral
+bf9aeace-8a66-4e13-959d-858bac4e721f,Mouth threat image management size behavior now national again specific bring fine something.,2.211917920108362,97,-0.4595357453912434,61.0,Books,Female,241.0,Negative
+41db50e0-8c08-4de4-a52b-bab03a72dcac,Day measure give everything stock affect military.,3.421981578390363,315,-0.025836008182625214,49.0,Electronics,Male,115.0,Neutral
+ed160e41-5057-4b5b-ac11-942f9d42db8d,Ready newspaper letter indicate common current.,2.1417602714419584,401,-0.5347193965208661,29.0,Electronics,Male,93.0,Neutral
+e04df4e6-dbfb-400c-ba1b-2cd0511dfae0,News fact season value wear peace a.,,125,0.3896995562585128,62.0,Books,Other,212.0,Negative
+b1ddd202-c340-4133-8acc-55852a85e565,Space professional build maybe indeed drop generation of.,1.5266542366208253,158,-0.7561152110844858,41.0,Home,Male,17.0,Negative
+8db6263a-65ed-4d74-98d1-b63601d5ca2e,Miss nor natural myself admit standard car second our sea activity.,1.44549028522703,66,0.5567136678739404,41.0,Clothing,Other,290.0,Negative
+33f5b05d-d2f7-45d4-9576-87e44ce684e8,Leg off PM west history believe ten product could.,3.964179788825358,398,-0.022973934537386942,18.0,Home,Other,55.0,Negative
+17241e71-5be8-4b07-9a5d-0e2231b4017d,Peace Congress management father tough go television.,1.266061948743813,179,-0.6194210323659255,55.0,Clothing,Male,163.0,Neutral
+e6c15ebd-9d73-473b-88e9-fd4f2bfc9ad3,Line she security if cover accept.,4.862432630759617,340,0.03116528678079411,,Beauty,Female,447.0,Negative
+19e97269-2849-49f9-b65e-87255d1a5582,Tonight around become address but include song federal really from size.,3.839376899964414,354,0.9004433097012428,31.0,Beauty,Other,344.0,Negative
+71b50cfb-5166-4b20-ae75-1b29cae6d31e,Should man whole exactly hotel seven product whether federal reality structure.,4.1390230844153795,212,0.6853134601232149,21.0,Home,Other,236.0,Positive
+044b1f25-aa00-4486-aa00-9a031ddd096a,Parent cause job prove body billion color space.,2.940629605700894,491,0.9689166119185557,24.0,Clothing,Male,332.0,Negative
+06b4f451-b540-4a55-b967-6c13c6b835bd,Example seat possible quite book involve marriage become.,1.879892625635423,62,-0.34029996963720865,46.0,Books,Other,137.0,Neutral
+a47ee90b-d267-4641-baf1-7f47b713fc82,Many everybody reason out pay nature trade happen decide occur up which.,4.739650537261372,66,0.9664220621297468,40.0,Home,Female,395.0,Neutral
+d5282c09-95de-4752-9dab-86dfb0613b60,Seven how suddenly often far situation.,4.908721044551255,76,-0.2133815247417732,34.0,Books,Female,149.0,Negative
+f598cd99-6d76-4c09-9f1f-00cd11281735,Push especially run his grow listen fast.,4.887300228393887,171,0.049243705714636876,54.0,Clothing,Female,260.0,Positive
+67ff1b71-224a-4441-8cb2-a010fb3df502,Available hard expect lawyer challenge employee seem alone into myself senior form talk.,,418,0.28606204327049034,26.0,Clothing,Female,127.0,Positive
+d6ed7a4d-ab93-4893-bae9-aef5a2b0d9f9,Name light start allow would network include choose no people seem.,2.467637804794911,441,0.8954034339086248,18.0,Clothing,Other,395.0,Positive
+95865d0d-7254-47c0-83c5-b86ce36f8821,Night ball power painting owner plan high east house clearly.,2.308881482768475,476,0.6424587158739352,48.0,Beauty,Other,263.0,Positive
+b9bd9152-0cc8-4f3a-9cf9-4860425e9a4a,Hold hard beyond war own south.,1.5417405156441975,195,0.47872171966895105,39.0,Books,Other,142.0,Neutral
+a1a3ce3a-526f-41c4-b9db-4ed852872f21,International discover part theory stock move mother.,3.435022712849912,114,-0.40853151499307416,20.0,Electronics,Male,459.0,Negative
+627d7d2f-2172-48d8-b725-cff1d0398be5,Garden almost last writer recognize career participant.,4.062082822661171,342,0.08127891316957125,47.0,Books,Female,138.0,Negative
+bc0883b4-675a-4a43-9142-66d77f8d895f,Company main pull cause PM reach upon.,,392,0.5230521077602748,25.0,Clothing,Female,452.0,Negative
+140c4229-ffc4-42e3-92df-9fd940f682e2,Store chair against training defense deal chance side close leg.,2.8060226222299716,187,0.16430384141313348,58.0,Clothing,Male,377.0,Negative
+a1b0757b-a906-4540-aaac-b01249e1ca6c,Similar unit low return image door left cover customer within according.,1.2050563548254138,139,-0.6189368656308745,63.0,Home,Female,420.0,Positive
+54b45d5f-bdd2-404c-ae40-24260becd077,Reveal control rich response hand space act government program everybody machine woman.,2.429185546356164,321,0.1704839667023006,33.0,Beauty,Female,174.0,Negative
+b8944380-f0ee-40c3-8648-56b0738fd8db,If worry me player enjoy lose trip cold reach since nearly national before.,1.6363505252059594,313,0.26372280466696707,27.0,Clothing,Male,135.0,Positive
+fdfd5712-64ab-45de-8388-92332ba1e7e9,Song natural degree western staff gun number have.,3.174618604037396,209,0.07030488883378427,35.0,Books,Other,206.0,Negative
+df7ee2ef-a9fd-4676-8393-be989a7f7801,Western eat perform effect close happen discover pay kitchen civil.,3.7499977072501216,161,0.36245230228090786,33.0,Beauty,Other,155.0,Neutral
+d7346bb5-7e35-4f68-aa08-0eae966b69f9,Everything necessary suffer fire opportunity possible those project before opportunity.,2.570212518744417,50,-0.06373622931915968,60.0,Clothing,Male,425.0,Negative
+d1ec263f-bfc2-4779-b048-4cece43e42b3,Final boy wish professor use success alone rule.,4.370604874475401,289,0.3915847578282481,22.0,Clothing,Female,264.0,Positive
+f2a5b29b-8fe5-4832-aad5-426c0424c926,Participant ball alone here few analysis shake bank you goal.,3.959601608220545,455,-0.17091033547961687,21.0,Clothing,Other,281.0,Negative
+ac2a8507-01be-48a6-b68e-0334b858e4f0,Outside good teacher player less official individual take his table.,2.2381215852735012,495,-0.1885215817007868,27.0,Electronics,Female,120.0,Positive
+932caf25-8441-47dc-a4b2-24d3486472ce,Various white report call theory use over scene charge usually run.,,448,0.24381278723133093,52.0,Beauty,Male,177.0,Negative
+a8a563a0-f660-4723-89b6-4e75708ffad2,Scene help field middle out sure worry.,2.4743148470901035,142,0.7107033623395007,42.0,Home,Other,272.0,Neutral
+6d9631cd-a3a9-4412-8a45-859013a4751f,Too hot never stop off answer after service memory run responsibility phone.,,426,0.5817858617961047,29.0,Beauty,Other,244.0,Positive
+045d4b80-be5c-42ef-9e16-d7b862b6da8b,Pretty likely one such should technology understand sit hospital.,4.44826548493965,343,0.33728724079803296,25.0,Books,Female,32.0,Negative
+0a784d19-3860-4f5e-a7d7-59fdc24efcdc,Full more response past century budget outside plan both perhaps of speech.,3.3309402191967052,373,0.5198638520011347,,Electronics,Male,495.0,Negative
+dd10a3c8-f4ad-49b4-9fd1-c906956793fd,Door common summer boy hand contain age.,2.1558488453079363,109,-0.3451966886164195,18.0,Clothing,Female,272.0,Positive
+eba6bc70-f7de-433e-8478-c90ef01cfba3,Perhaps billion too themselves summer drop commercial role.,1.9657610906880278,76,0.18497955635928598,34.0,Clothing,Female,342.0,Positive
+8bf7cd06-3faf-4c18-97f6-15a30e86af7b,Full hear continue usually north theory type owner.,1.2946571652731302,132,-0.36406998693200765,34.0,Beauty,Male,193.0,Neutral
+1792a23d-6617-4785-8d7e-2783aa88c457,Country nature south case majority easy mother raise design idea.,1.5178187166421204,295,0.5691236782355111,61.0,Beauty,Other,408.0,Positive
+c1ec5002-0ebe-4c05-8e40-e2b398d4b75c,Concern resource family face choose on weight doctor former eat.,4.601427580398475,55,-0.6339475721114827,,Beauty,Male,361.0,Negative
+ddce0cc4-18e4-414b-9b18-79319f0fc816,Fish put health thus arm music road remain throughout read individual of.,1.4990601306007623,390,-0.9702724770134978,21.0,Home,Other,17.0,Negative
+0b304230-9710-4b23-8e0f-4af736129deb,Traditional laugh particular training page should rock agent forget.,2.910700161404324,458,0.4736217107595311,25.0,Clothing,Female,74.0,Negative
+02929044-c612-48a2-a352-2ec342d78e7f,Education rate study professor hair financial.,1.2455970921955068,262,-0.8750100836701482,27.0,Home,Other,14.0,Negative
+82e081bd-879a-4b06-b087-b33497a41bf3,Life table gun sign capital cost court as quite pretty discuss whether because.,1.2608503477044328,171,-0.23911220385429166,42.0,Electronics,Other,61.0,Neutral
+a73b70e0-3cac-4a88-8df5-7b067a764b0f,What impact say specific best write modern individual way still nature hear.,2.613338481307803,403,0.24123413604774435,43.0,Home,Male,285.0,Neutral
+b96c419c-cb7a-41dd-a7f4-55bda0a0b239,Modern stock teacher possible inside determine.,,406,0.9813529101219607,54.0,Electronics,Male,451.0,Neutral
+36145e26-a82f-44f1-b000-5a262abb3302,Firm less majority sense health necessary experience.,,305,-0.06672835728301862,33.0,Books,Male,127.0,Negative
+6fa56945-9b1d-457a-b977-562da3716cc8,Present plant production effect mission player buy thought PM poor meet manage.,,401,0.44799658735513237,29.0,Electronics,Other,222.0,Neutral
+eba97281-4c43-46ad-89a3-c9fa66c769ba,Allow purpose ahead site end letter drop.,3.9497225249320707,468,0.712142231988157,52.0,Books,Female,124.0,Neutral
+bac6f735-ff63-4c05-985b-590611d433bd,Act body computer draw employee describe president fear.,,490,0.6222984139846846,54.0,Beauty,Male,160.0,Neutral
+5a26ecd8-a594-4c3c-ac10-0b722d445ec1,Growth answer compare modern level support thank happy mouth much family goal action.,,323,0.7585826391704911,29.0,Books,Other,318.0,Neutral
+c55fe58c-ffe8-4530-aa57-8d66e552da17,Guess account treat true pattern suffer they share science television second.,1.3645834802404329,267,0.10247748426950665,52.0,Books,Male,465.0,Neutral
+8da05202-7468-4ac4-9c6e-daaa553a000a,Require down money ball entire doctor people responsibility character government light.,1.4235858894605729,160,0.9870141405102071,22.0,Electronics,Other,156.0,Neutral
+f89590e6-4391-407e-b0f5-a46e2a1a4bac,Day sister cell wish bit fish including seven drug.,4.785036965371738,173,0.7800397685974276,34.0,Home,Male,269.0,Neutral
+28a35256-a971-47f8-950e-76b41b606b37,Rich health check try various good law drive white.,3.484839548993525,126,-0.3365175952766286,43.0,Books,Female,301.0,Neutral
+0a54d7cd-c23a-4cb2-a140-7caa762ad14d,Help cup society itself grow make generation thousand down measure.,1.278616979096026,310,-0.028908594162234236,,Beauty,Other,109.0,Positive
+69017cab-739a-438a-a7a3-bf88a8a4faad,Hot four become man remember whose of game painting probably.,3.453018223877019,146,-0.18732241695700602,26.0,Beauty,Male,368.0,Positive
+c734b348-c323-4e17-9982-048b0123c6b7,Life head thought common simple money sound born then.,1.2513503656376055,132,0.2965732402672505,21.0,Books,Male,339.0,Positive
+37e19d0a-333c-48a3-97ed-9367380bc147,Six successful son member argue list avoid name property pressure voice nature.,2.930257038868248,60,0.2734142071320529,43.0,Home,Male,236.0,Positive
+41d14ce2-73e9-4e12-b771-9863b6403879,Financial city around majority nothing young fire government national prepare base into.,4.540206522292127,430,-0.7417235534283146,51.0,Books,Female,211.0,Neutral
+a27190f0-ca8d-4323-a73f-d26781c5f855,Beat suddenly ago artist baby opportunity field executive.,3.0467040902263185,248,0.4137276544777757,51.0,Home,Other,102.0,Positive
+878f35cb-292a-4172-ba77-46cf225d8c5f,Inside mouth bit job any idea pressure culture interesting majority say.,2.435964755945665,392,-0.6599591304799741,48.0,Books,Female,146.0,Negative
